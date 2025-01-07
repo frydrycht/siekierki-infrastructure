@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "43 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06644500000,
+                        52.21566300000
+                    ],
+                    [
+                        21.06053400000,
+                        52.21645200000
+                    ],
+                    [
+                        21.05992700000,
+                        52.21513400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "3 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08867181427,
+                        52.19793296597
+                    ],
+                    [
+                        21.08665647120,
+                        52.19977545486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "49 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06315400000,
+                        52.20971700000
+                    ],
+                    [
+                        21.06459400000,
+                        52.20942600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Daktylowa",
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "3 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06881600000,
+                        52.21229400000
+                    ],
+                    [
+                        21.06967400000,
+                        52.20946100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "47 KP",
+                "Status": "zbudowana",
+                "Nazwa": "Wojskowej Służby Kobiet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05901000000,
+                        52.20873100000
+                    ],
+                    [
+                        21.05417100000,
+                        52.20822100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "43 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06332300000,
+                        52.21517700000
+                    ],
+                    [
+                        21.06371500000,
+                        52.21602500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "4 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08560051419,
+                        52.20071824118
+                    ],
+                    [
+                        21.08360957151,
+                        52.20250557221
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "48 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06138600000,
+                        52.21139800000
+                    ],
+                    [
+                        21.06186100000,
+                        52.21232700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "2 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08865971425,
+                        52.19793305072
+                    ],
+                    [
+                        21.09055124276,
+                        52.19623745374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "51 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06757700000,
+                        52.20589700000
+                    ],
+                    [
+                        21.06797900000,
+                        52.20452600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "7 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07378882860,
+                        52.20130779298
+                    ],
+                    [
+                        21.07165064288,
+                        52.20038207866
+                    ]
+                ]
+            }
+        }
+    ]
+}
