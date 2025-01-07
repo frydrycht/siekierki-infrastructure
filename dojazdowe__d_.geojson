@@ -247,12 +247,13 @@
         {
             "type": "Feature",
             "properties": {
-                "opis": "Uchwała Zarządu Dzielnicy wyrażająca zgodę na budowę przez spółkę ANTAR S Sp. z o.o.\nhttps://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-47/2024-z-2024-06-26\nhttps://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504844.072907227&Y=5785784.536687978&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\n",
+                "opis": "a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504844.072907227&Y=5785784.536687978&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "Data uzyskania PnB": "",
                 "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowania-terenu-osady-siekierki-jako-33-kud-na-odcinku-od-skrzyzowania-z-droga-30-kud-bez-sk\">Decyzja</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-oraz-zebraniu-materialow-i-dowodow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-budowie-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowan\">Wniosek</a>",
                 "Identyfikator MPZP": "33 KUD",
                 "Inwestor": "SGI",
-                "Status": "pozwolenie"
+                "Status": "pozwolenie",
+                "Umowa":"<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-47/2024-z-2024-06-26\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
