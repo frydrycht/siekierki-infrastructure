@@ -374,7 +374,7 @@
             "type": "Feature",
             "properties": {
                 "Oddanie do użytku": "03.2021",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Pozwolenie na budowę": "",
                 "Identyfikator MPZP": "4 KDZ",
                 "Data uzyskania PnB": "",
@@ -777,7 +777,7 @@
             "type": "Feature",
             "properties": {
                 "Oddanie do użytku": "03.2021",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Pozwolenie na budowę": "",
                 "Identyfikator MPZP": "4 KDZ",
                 "Data uzyskania PnB": "",

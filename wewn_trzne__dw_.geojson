@@ -363,7 +363,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "50 KUDw"
             },
             "geometry": {
@@ -513,7 +513,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "51 KUDw"
             },
             "geometry": {
@@ -537,7 +537,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "51 KUDw"
             },
             "geometry": {

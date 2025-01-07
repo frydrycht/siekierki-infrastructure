@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Inwestor": "UM Warszawa",
                 "Oddanie do użytku": "02.2019",
                 "Identyfikator MPZP": "1 KDG",
@@ -92,7 +92,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "aleja Polski Walczącej",
                 "Oddanie do użytku": "02.2019",
                 "Identyfikator MPZP": "3 KDG",
@@ -245,7 +245,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Oddanie do użytku": "02.2019",
                 "Identyfikator MPZP": "1 KDG",
                 "Nazwa": "Aleja Polski Walczącej",
@@ -491,7 +491,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "aleja Polski Walczącej",
                 "Inwestor": "UM Warszawa",
                 "Oddanie do użytku": "02.2019",

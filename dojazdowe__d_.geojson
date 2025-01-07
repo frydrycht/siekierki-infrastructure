@@ -87,7 +87,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "41 KDD",
                 "Pozwolenie na budowę": "",
                 "Data uzyskania PnB": "",
@@ -112,7 +112,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "26 KUD"
             },
             "geometry": {
@@ -132,7 +132,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Gościniec",
                 "Identyfikator MPZP": "25 KUD",
                 "Autobus": "Funkcjonuje - brak MPZP"
@@ -252,7 +252,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "37 KUD",
                 "Nazwa": "Kątna"
             },
@@ -313,7 +313,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Wacława Żenczykowskiego",
                 "Identyfikator MPZP": "27 KDD"
             },
@@ -408,7 +408,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Antoniego Ponikowskiego",
                 "Identyfikator MPZP": "27 KDD"
             },
@@ -449,7 +449,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Gościniec",
                 "Identyfikator MPZP": "27 KUD",
                 "Autobus": "Funkcjonuje - brak MPZP"
@@ -502,7 +502,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Batalionu AK \"Ryś\"",
                 "Identyfikator MPZP": "34 KDD",
                 "Data uzyskania PnB": "13.10.2021",
@@ -771,7 +771,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Antoniewska",
                 "Identyfikator MPZP": "39 KDD",
                 "Autobus": "Funkcjonuje"
@@ -842,7 +842,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "29 KUD",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Gościniec"
             },
             "geometry": {
@@ -938,7 +938,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "28 KUD",
                 "Nazwa": "Koszykarska"
             },
@@ -983,7 +983,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "35 KDD",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Grupy AK \"Krybar\"",
                 "Inwestor": "Budimex Nieruchomości",
                 "Oddanie do użytku": "~2015"
@@ -1099,7 +1099,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Antoniewska",
                 "Identyfikator MPZP": "40 KDD",
                 "Autobus": "Funkcjonuje"
@@ -1192,7 +1192,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Pozwolenie na budowę": "",
                 "Data uzyskania PnB": "",
                 "Inwestor": "Atal",
@@ -1219,7 +1219,7 @@
                 "Data uzyskania PnB": "12.04.2021",
                 "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/2dbd8ea6-12e0-4537-a3f2-eaa36efc41d1/",
                 "Inwestor": "Albero Invest",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "opis": "",
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "27 KUD"
@@ -1397,7 +1397,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Pułku AK \"Waligóra\"",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Inwestor": "Budimex Nieruchomości",
                 "Identyfikator MPZP": "10 KDD",
                 "Oddanie do użytku": "~2015"
@@ -1506,7 +1506,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "41 KDD",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Antoniewska",
                 "Autobus": "Funkcjonuje"
             },
@@ -1531,7 +1531,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "40 KUD"
             },
             "geometry": {
@@ -1582,7 +1582,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Wał Zawadowski",
                 "Identyfikator MPZP": "12 KUD"
             },
@@ -1634,7 +1634,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Cytrynowa",
                 "Identyfikator MPZP": "22 KUD"
             },
@@ -1734,7 +1734,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Grzegorza Piramowicza",
                 "Identyfikator MPZP": "44 KDD"
             },
@@ -1783,7 +1783,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Pułku AK \"Waligóra\"",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Data uzyskania PnB": "13.10.2021",
                 "opis": "",
                 "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/47c24e50-a1ea-49fa-815b-d86ae1371d69/",
@@ -1878,7 +1878,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "17 KUD",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Bananowa"
             },
             "geometry": {
@@ -1898,7 +1898,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "26 KDD"
             },
             "geometry": {
@@ -1961,7 +1961,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Pozwolenie na budowę": "",
                 "Nazwa": "Dywizjonu AK \"Jeleń\"",
                 "Data uzyskania PnB": "",
@@ -2032,7 +2032,7 @@
             "properties": {
                 "Nazwa": "Łososiowa",
                 "Identyfikator MPZP": "24 KUD",
-                "Status": "zbudowana"
+                "Status": "istniejąca"
             },
             "geometry": {
                 "type": "LineString",
@@ -2110,7 +2110,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Pułku AK \"Waligóra\"",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Data uzyskania PnB": "13.10.2021",
                 "opis": "",
                 "Pozwolenie na budowę": "http://wyszukiwarka.gunb.gov.pl/wniosek/47c24e50-a1ea-49fa-815b-d86ae1371d69/",
@@ -2276,7 +2276,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Pozwolenie na budowę": "",
                 "Nazwa": "Dywizjonu AK \"Jeleń\"",
                 "Data uzyskania PnB": "",
@@ -2324,7 +2324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Pozwolenie na budowę": "",
                 "Data uzyskania PnB": "",
                 "Oddanie do użytku": "~09.2020",
@@ -2372,7 +2372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Kaloryczna",
                 "Identyfikator MPZP": "38 KDD",
                 "Autobus": "MPZP"
@@ -2413,7 +2413,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Rodzynkowa",
                 "Identyfikator MPZP": "13 KUD"
             },
@@ -2470,7 +2470,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "31 KDD",
                 "Nazwa": "Niewielka",
                 "Oddanie do użytku": "~2008"
@@ -2495,7 +2495,7 @@
                 "Nazwa": "Batalionu AK \"Karpaty\"",
                 "Oddanie do użytku": "2012",
                 "Identyfikator MPZP": "35 KDD",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Inwestor": "APM"
             },
             "geometry": {
@@ -2547,7 +2547,7 @@
             "type": "Feature",
             "properties": {
                 "Oddanie do użytku": "~2013",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "59 KUD"
             },
             "geometry": {
@@ -2587,7 +2587,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Figowa",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "21 KUD"
             },
             "geometry": {
@@ -2682,7 +2682,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "43 KDD",
                 "Nazwa": "Kaloryczna"
             },
@@ -2727,7 +2727,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "23 KUD",
                 "Nazwa": "Siekierkowska"
             },
@@ -2799,7 +2799,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Piaskarzy",
                 "Identyfikator MPZP": "10 KDD"
             },
@@ -2830,7 +2830,7 @@
             "properties": {
                 "Nazwa": "Batalionu AK \"Karpaty\"",
                 "Identyfikator MPZP": "35 KDD",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Inwestor": "APM",
                 "Oddanie do użytku": "2015"
             },
@@ -3115,7 +3115,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Siekierkowska",
                 "Identyfikator MPZP": "27 KUD"
             },
@@ -3164,7 +3164,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Polska",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "36 KDD",
                 "Autobus": "Funkcjonuje - brak MPZP"
             },
@@ -3301,7 +3301,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Gąsocińska",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "39 KUD"
             },
             "geometry": {
@@ -3340,7 +3340,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Batalionu AK \"Olza\"",
                 "Identyfikator MPZP": "32 KDD",
                 "Oddanie do użytku": "~2008"
@@ -3443,7 +3443,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Stanisława Hempla",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "27 KDD"
             },
             "geometry": {

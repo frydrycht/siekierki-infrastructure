@@ -67,7 +67,7 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Daktylowa",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "3 KPJ"
             },
             "geometry": {
@@ -88,7 +88,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "47 KP",
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Nazwa": "Wojskowej Służby Kobiet"
             },
             "geometry": {
@@ -184,7 +184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "zbudowana",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "51 KP"
             },
             "geometry": {
