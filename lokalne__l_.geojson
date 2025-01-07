@@ -1,0 +1,1629 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "31 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.09158800000,
+                        52.19666500000
+                    ],
+                    [
+                        21.09186433976,
+                        52.19639503161
+                    ],
+                    [
+                        21.09251383045,
+                        52.19537083341
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "13 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08068229379,
+                        52.20096478032
+                    ],
+                    [
+                        21.08141970873,
+                        52.20141294145
+                    ],
+                    [
+                        21.08216709598,
+                        52.20181613030
+                    ],
+                    [
+                        21.08308456721,
+                        52.20226725336
+                    ],
+                    [
+                        21.08360679876,
+                        52.20250068220
+                    ],
+                    [
+                        21.08418251413,
+                        52.20275143878
+                    ],
+                    [
+                        21.08439603592,
+                        52.20288571679
+                    ],
+                    [
+                        21.08454131838,
+                        52.20304694904
+                    ],
+                    [
+                        21.08467337856,
+                        52.20326781287
+                    ],
+                    [
+                        21.08467089463,
+                        52.20347770097
+                    ],
+                    [
+                        21.08461984944,
+                        52.20365577597
+                    ],
+                    [
+                        21.08448468928,
+                        52.20384056158
+                    ],
+                    [
+                        21.08425468001,
+                        52.20402395580
+                    ],
+                    [
+                        21.08392877611,
+                        52.20417315199
+                    ],
+                    [
+                        21.08353815261,
+                        52.20425531067
+                    ],
+                    [
+                        21.08309694348,
+                        52.20426006382
+                    ],
+                    [
+                        21.08274295709,
+                        52.20420443499
+                    ],
+                    [
+                        21.08243275941,
+                        52.20409374117
+                    ],
+                    [
+                        21.08177309850,
+                        52.20381700542
+                    ],
+                    [
+                        21.08055194051,
+                        52.20329962526
+                    ],
+                    [
+                        21.07931114976,
+                        52.20277501969
+                    ],
+                    [
+                        21.07766150280,
+                        52.20208050401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "9 KUL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07113536723,
+                        52.20940040610
+                    ],
+                    [
+                        21.07004916383,
+                        52.20770809293
+                    ],
+                    [
+                        21.06991490838,
+                        52.20754437096
+                    ],
+                    [
+                        21.06974214005,
+                        52.20741443578
+                    ],
+                    [
+                        21.06952225308,
+                        52.20729171888
+                    ],
+                    [
+                        21.06927500000,
+                        52.20717900000
+                    ],
+                    [
+                        21.06899216842,
+                        52.20708478372
+                    ],
+                    [
+                        21.06864200000,
+                        52.20699500000
+                    ],
+                    [
+                        21.06803300000,
+                        52.20692000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "5 KUL",
+                "Status": "zbudowana",
+                "Nazwa": "Nadrzeczna"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07831100000,
+                        52.21194600000
+                    ],
+                    [
+                        21.07874000000,
+                        52.21174900000
+                    ],
+                    [
+                        21.07909400000,
+                        52.21130800000
+                    ],
+                    [
+                        21.08058600000,
+                        52.20904000000
+                    ],
+                    [
+                        21.08059600000,
+                        52.20851400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Data uzyskania PnB": "01.06.2022",
+                "Status": "w budowie",
+                "Nazwa": "Marzycieli",
+                "Identyfikator MPZP": "7 KUL",
+                "Pozwolenie na budowę": "(Decyzja ZRID) https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_o_wydaniu_decyzji__na_budowe_drogi_gminnej_-_7_KUL.htm\n(Wszczęcie procedury ZnRID) https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/ZAWIADOMIENIE__o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwoleniu_na_.htm\n",
+                "Inwestor": "YIT",
+                "opis": "http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505324.820823876&Y=5785910.610646294&S=14&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07448951413,
+                        52.20689215633
+                    ],
+                    [
+                        21.07472200000,
+                        52.20689700000
+                    ],
+                    [
+                        21.07548400000,
+                        52.20691600000
+                    ],
+                    [
+                        21.07585400000,
+                        52.20690500000
+                    ],
+                    [
+                        21.07739900000,
+                        52.20682400000
+                    ],
+                    [
+                        21.07770200000,
+                        52.20682400000
+                    ],
+                    [
+                        21.07798700000,
+                        52.20685200000
+                    ],
+                    [
+                        21.07818200000,
+                        52.20688300000
+                    ],
+                    [
+                        21.07836500000,
+                        52.20692500000
+                    ],
+                    [
+                        21.07856900000,
+                        52.20698500000
+                    ],
+                    [
+                        21.07875400000,
+                        52.20705400000
+                    ],
+                    [
+                        21.07909200000,
+                        52.20722200000
+                    ],
+                    [
+                        21.07927900000,
+                        52.20736500000
+                    ],
+                    [
+                        21.07941400000,
+                        52.20749200000
+                    ],
+                    [
+                        21.07952500000,
+                        52.20761400000
+                    ],
+                    [
+                        21.07996300000,
+                        52.20836300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "7 KUL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07004916383,
+                        52.20770809293
+                    ],
+                    [
+                        21.07146982338,
+                        52.20756121438
+                    ],
+                    [
+                        21.07192137697,
+                        52.20749865307
+                    ],
+                    [
+                        21.07220016224,
+                        52.20742165442
+                    ],
+                    [
+                        21.07244528246,
+                        52.20734012543
+                    ],
+                    [
+                        21.07277736553,
+                        52.20719787631
+                    ],
+                    [
+                        21.07311112254,
+                        52.20700537811
+                    ],
+                    [
+                        21.07331922985,
+                        52.20691153494
+                    ],
+                    [
+                        21.07348021852,
+                        52.20686581640
+                    ],
+                    [
+                        21.07364423727,
+                        52.20684712511
+                    ],
+                    [
+                        21.07448951413,
+                        52.20689215633
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "6 KUL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08284293788,
+                        52.20830948320
+                    ],
+                    [
+                        21.08299622173,
+                        52.20830712972
+                    ],
+                    [
+                        21.08315917368,
+                        52.20833720674
+                    ],
+                    [
+                        21.08367976273,
+                        52.20855843689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "6 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06165800000,
+                        52.19551600000
+                    ],
+                    [
+                        21.06004800000,
+                        52.19850200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Pozwolenie na budowę": "",
+                "Identyfikator MPZP": "6 KDL",
+                "Inwestor": "UM Warszawa",
+                "opis": "",
+                "Data uzyskania PnB": "",
+                "Nazwa": "Grupy AK \"Kampinos\""
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05402300000,
+                        52.20880100000
+                    ],
+                    [
+                        21.05417400000,
+                        52.20822300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "14 KDL",
+                "Status": "zbudowana",
+                "Nazwa": "Antoniewska"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07592900000,
+                        52.20295800000
+                    ],
+                    [
+                        21.07533900000,
+                        52.20312300000
+                    ],
+                    [
+                        21.07461000000,
+                        52.20327400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "",
+                "Inwestor": "Dom Development",
+                "Data uzyskania PnB": "",
+                "opis": "https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\nhttps://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506220.104678084&Y=5784844.273667165&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\n",
+                "Status": "projektowanie",
+                "Identyfikator MPZP": "31 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.09045100000,
+                        52.19771400000
+                    ],
+                    [
+                        21.09158800000,
+                        52.19666500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "9 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.09132633326,
+                        52.20857460803
+                    ],
+                    [
+                        21.09403572358,
+                        52.20634365920
+                    ],
+                    [
+                        21.09425005652,
+                        52.20613193721
+                    ],
+                    [
+                        21.09549308477,
+                        52.20457786924
+                    ],
+                    [
+                        21.09600292664,
+                        52.20377369010
+                    ],
+                    [
+                        21.09648196611,
+                        52.20291459425
+                    ],
+                    [
+                        21.09733477405,
+                        52.20087771467
+                    ],
+                    [
+                        21.09844256504,
+                        52.19814358955
+                    ],
+                    [
+                        21.09784236735,
+                        52.19788622018
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Wolicka",
+                "Identyfikator MPZP": "12 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07462000000,
+                        52.20261000000
+                    ],
+                    [
+                        21.07461000000,
+                        52.20327400000
+                    ],
+                    [
+                        21.07459400000,
+                        52.20343800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "",
+                "Inwestor": "Dom Development",
+                "Identyfikator MPZP": "15 KDL",
+                "Data uzyskania PnB": "",
+                "opis": "https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\nhttps://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506327.52551143&Y=5784915.182000503&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\n",
+                "Status": "projektowanie"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.09308107345,
+                        52.19730466083
+                    ],
+                    [
+                        21.09220107345,
+                        52.19810525372
+                    ],
+                    [
+                        21.09195270621,
+                        52.19833044022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "15 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08548758758,
+                        52.19989091252
+                    ],
+                    [
+                        21.08846361583,
+                        52.19970927754
+                    ],
+                    [
+                        21.08924925545,
+                        52.19965132253
+                    ],
+                    [
+                        21.08977148700,
+                        52.19955505719
+                    ],
+                    [
+                        21.09027660451,
+                        52.19941175949
+                    ],
+                    [
+                        21.09121903386,
+                        52.19898806041
+                    ],
+                    [
+                        21.09195270621,
+                        52.19833044022
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "",
+                "Data uzyskania PnB": "",
+                "Identyfikator MPZP": "13 KDL",
+                "opis": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF",
+                "Status": "projektowanie",
+                "Inwestor": "?Dantex?"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07982488136,
+                        52.20040518682
+                    ],
+                    [
+                        21.08068229379,
+                        52.20096478032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "4 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05385900000,
+                        52.19595500000
+                    ],
+                    [
+                        21.05987700000,
+                        52.19843600000
+                    ],
+                    [
+                        21.06039200000,
+                        52.19869300000
+                    ],
+                    [
+                        21.06302000000,
+                        52.20086300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "11 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06216200000,
+                        52.19447100000
+                    ],
+                    [
+                        21.06165800000,
+                        52.19551600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Data uzyskania PnB": "10.08.2022",
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "8 KUL",
+                "Nazwa": "Bluszczańska",
+                "Pozwolenie na budowę": "https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_o_wydaniu_decyzji_na_budowe_drogi_gminnej_19_KUD.htm\nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/MOKOTOW__OBWIESZCZENIE_O_TOCZACYM_SIEPOSTEPOWANIU_BUDOWA_DROGI_GMNINNEJ_19_KUD.htm\n",
+                "opis": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504642.989573893&Y=5786181.0148129705&S=17&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D",
+                "Inwestor": "SGI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06744000000,
+                        52.20918300000
+                    ],
+                    [
+                        21.06761200000,
+                        52.20919300000
+                    ],
+                    [
+                        21.06819700000,
+                        52.20926700000
+                    ],
+                    [
+                        21.06837600000,
+                        52.20930000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "6 KUL",
+                "Nazwa": "Gwintowa"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07996300000,
+                        52.20836300000
+                    ],
+                    [
+                        21.08010300000,
+                        52.20842200000
+                    ],
+                    [
+                        21.08058600000,
+                        52.20851700000
+                    ],
+                    [
+                        21.08133100000,
+                        52.20855700000
+                    ],
+                    [
+                        21.08284293788,
+                        52.20830948320
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "11 KDL",
+                "Nazwa": "11 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07690540121,
+                        52.19792794509
+                    ],
+                    [
+                        21.07741069809,
+                        52.19844799078
+                    ],
+                    [
+                        21.07810177143,
+                        52.19906410071
+                    ],
+                    [
+                        21.07891351413,
+                        52.19972037349
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Pozwolenie na budowę": "",
+                "Identyfikator MPZP": "6 KDL",
+                "opis": "",
+                "Data uzyskania PnB": "",
+                "Nazwa": "Grupy AK \"Kampinos\"",
+                "Inwestor": "UD Mokotów"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05417400000,
+                        52.20822300000
+                    ],
+                    [
+                        21.05428900000,
+                        52.20777100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "31 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08846361583,
+                        52.19970927754
+                    ],
+                    [
+                        21.08843645897,
+                        52.19956468374
+                    ],
+                    [
+                        21.08847179795,
+                        52.19947563813
+                    ],
+                    [
+                        21.08876628943,
+                        52.19922053351
+                    ],
+                    [
+                        21.08971258870,
+                        52.19835412954
+                    ],
+                    [
+                        21.09045100000,
+                        52.19771400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "7 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05459800000,
+                        52.19906100000
+                    ],
+                    [
+                        21.05678700000,
+                        52.19717400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "14 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08548758758,
+                        52.19989091252
+                    ],
+                    [
+                        21.08399160095,
+                        52.19997862313
+                    ],
+                    [
+                        21.08262516050,
+                        52.20006044791
+                    ],
+                    [
+                        21.08112129070,
+                        52.20022891020
+                    ],
+                    [
+                        21.07982488136,
+                        52.20040518682
+                    ],
+                    [
+                        21.07962920055,
+                        52.20047438269
+                    ],
+                    [
+                        21.07920513282,
+                        52.20070060123
+                    ],
+                    [
+                        21.07883603684,
+                        52.20097013671
+                    ],
+                    [
+                        21.07831380529,
+                        52.20147551133
+                    ],
+                    [
+                        21.07766150280,
+                        52.20208050401
+                    ],
+                    [
+                        21.07746959639,
+                        52.20226965985
+                    ],
+                    [
+                        21.07725756253,
+                        52.20243811377
+                    ],
+                    [
+                        21.07671236723,
+                        52.20273547807
+                    ],
+                    [
+                        21.07592900000,
+                        52.20295800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Inwestor": "Kątna sp. z o.o.",
+                "Pozwolenie na budowę": "",
+                "Data uzyskania PnB": "",
+                "opis": "Uchwała Zarządu Dzielnicy wyrażająca zgodę na przebudowę przez spółkę Kątna Sp. z o.o.\nhttps://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10\n",
+                "Identyfikator MPZP": "8 KUL",
+                "Nazwa": "Bluszczańska",
+                "Status": "planowane prace"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06837600000,
+                        52.20930000000
+                    ],
+                    [
+                        21.06901700000,
+                        52.20939500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "4 KUL",
+                "Nazwa": "Bananowa"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07831700000,
+                        52.21194200000
+                    ],
+                    [
+                        21.07908400000,
+                        52.21240300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "",
+                "Data uzyskania PnB": "",
+                "opis": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF",
+                "Identyfikator MPZP": "11 KDL",
+                "Status": "projektowanie",
+                "Inwestor": "?Dantex?"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07891351413,
+                        52.19972037349
+                    ],
+                    [
+                        21.07934648873,
+                        52.20006044791
+                    ],
+                    [
+                        21.07982488136,
+                        52.20040518682
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "10 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08816629379,
+                        52.20426874487
+                    ],
+                    [
+                        21.09132633326,
+                        52.20857460803
+                    ],
+                    [
+                        21.09156199518,
+                        52.20888701222
+                    ],
+                    [
+                        21.09155021552,
+                        52.20906265942
+                    ],
+                    [
+                        21.09145690390,
+                        52.20916723181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "9 KUL",
+                "opis": "https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504840.831761387&Y=5786489.45283382&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF",
+                "Pozwolenie na budowę": "https://wyszukiwarka.gunb.gov.pl/wniosek/136e556e-f52d-4bba-82c7-25d28f222f56/",
+                "Data uzyskania PnB": "",
+                "Inwestor": "Mill-yon",
+                "Status": "wniosek o pozwolenie",
+                "Nazwa": "Piniowa"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07070618362,
+                        52.21158839102
+                    ],
+                    [
+                        21.07072378027,
+                        52.21174540243
+                    ],
+                    [
+                        21.07078227686,
+                        52.21189531646
+                    ],
+                    [
+                        21.07084746669,
+                        52.21203893053
+                    ],
+                    [
+                        21.07088869549,
+                        52.21220494147
+                    ],
+                    [
+                        21.07081800000,
+                        52.21251000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "6 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05216400000,
+                        52.21268000000
+                    ],
+                    [
+                        21.05226900000,
+                        52.21241300000
+                    ],
+                    [
+                        21.05198700000,
+                        52.21211900000
+                    ],
+                    [
+                        21.05075154511,
+                        52.21128601307
+                    ],
+                    [
+                        21.05068645278,
+                        52.21122449970
+                    ],
+                    [
+                        21.05083100000,
+                        52.21089600000
+                    ],
+                    [
+                        21.05186061760,
+                        52.20928883425
+                    ],
+                    [
+                        21.05194307718,
+                        52.20922266500
+                    ],
+                    [
+                        21.05207802386,
+                        52.20918752811
+                    ],
+                    [
+                        21.05379641020,
+                        52.20911318674
+                    ],
+                    [
+                        21.05393337570,
+                        52.20906756328
+                    ],
+                    [
+                        21.05402300000,
+                        52.20880100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Oddanie do użytku": "~2012",
+                "Nazwa": "Grupy AK \"Północ\"",
+                "Identyfikator MPZP": "7 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05884900000,
+                        52.21285600000
+                    ],
+                    [
+                        21.05859700000,
+                        52.21231100000
+                    ],
+                    [
+                        21.05855900000,
+                        52.21215900000
+                    ],
+                    [
+                        21.05860200000,
+                        52.21044400000
+                    ],
+                    [
+                        21.05862900000,
+                        52.21023000000
+                    ],
+                    [
+                        21.05902100000,
+                        52.20873400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Pozwolenie na budowę": "",
+                "Inwestor": "",
+                "opis": "",
+                "Data uzyskania PnB": "",
+                "Identyfikator MPZP": "8 KDL",
+                "Nazwa": "Bluszczańska"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06609400000,
+                        52.20923400000
+                    ],
+                    [
+                        21.06703500000,
+                        52.20917100000
+                    ],
+                    [
+                        21.06744000000,
+                        52.20918300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "15 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.09784236735,
+                        52.19788622018
+                    ],
+                    [
+                        21.09557858758,
+                        52.19692254271
+                    ],
+                    [
+                        21.09516657085,
+                        52.19680178018
+                    ],
+                    [
+                        21.09482888729,
+                        52.19675123766
+                    ],
+                    [
+                        21.09433418648,
+                        52.19676213661
+                    ],
+                    [
+                        21.09406713600,
+                        52.19680659375
+                    ],
+                    [
+                        21.09377264452,
+                        52.19688361080
+                    ],
+                    [
+                        21.09338903398,
+                        52.19705791500
+                    ],
+                    [
+                        21.09308107345,
+                        52.19730466083
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "8 KDL",
+                "Nazwa": "Bluszczańska"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05902100000,
+                        52.20873400000
+                    ],
+                    [
+                        21.06284300000,
+                        52.20912400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "5 KUL",
+                "Inwestor": "ZMID",
+                "Pozwolenie na budowę": "",
+                "Data uzyskania PnB": "",
+                "Nazwa": "Nadrzeczna",
+                "opis": "https://zmid.waw.pl/inwestycje-zmid/zadania-w-przygotowaniu/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/#tab-3",
+                "Status": "projektowanie"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07357500000,
+                        52.21253700000
+                    ],
+                    [
+                        21.07465400000,
+                        52.21257300000
+                    ],
+                    [
+                        21.07487200000,
+                        52.21252100000
+                    ],
+                    [
+                        21.07503200000,
+                        52.21239700000
+                    ],
+                    [
+                        21.07520500000,
+                        52.21230900000
+                    ],
+                    [
+                        21.07543200000,
+                        52.21227000000
+                    ],
+                    [
+                        21.07625800000,
+                        52.21220100000
+                    ],
+                    [
+                        21.07829000000,
+                        52.21193300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Pozwolenie na budowę": "",
+                "Identyfikator MPZP": "9 KDL",
+                "Data uzyskania PnB": "",
+                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Oddanie do użytku": "~04.2021",
+                "Nazwa": "Marii Cetysówny"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06637300000,
+                        52.20791600000
+                    ],
+                    [
+                        21.06651800000,
+                        52.20788000000
+                    ],
+                    [
+                        21.06686900000,
+                        52.20779900000
+                    ],
+                    [
+                        21.06701200000,
+                        52.20773400000
+                    ],
+                    [
+                        21.06707100000,
+                        52.20765700000
+                    ],
+                    [
+                        21.06710300000,
+                        52.20752800000
+                    ],
+                    [
+                        21.06729300000,
+                        52.20683400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Pozwolenie na budowę": "",
+                "Identyfikator MPZP": "9 KDL",
+                "Data uzyskania PnB": "",
+                "Nazwa": "Ananasowa",
+                "opis": "Spravia (Budimex Nieruchomości)",
+                "Oddanie do użytku": "~09.2020",
+                "Inwestor": "Budimex Nieruchomości"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06729300000,
+                        52.20683400000
+                    ],
+                    [
+                        21.06802000000,
+                        52.20691300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "9 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08810500000,
+                        52.21116600000
+                    ],
+                    [
+                        21.09145690390,
+                        52.20916723181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "5 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05678700000,
+                        52.19717400000
+                    ],
+                    [
+                        21.05843900000,
+                        52.19583900000
+                    ],
+                    [
+                        21.05878200000,
+                        52.19568700000
+                    ],
+                    [
+                        21.05912000000,
+                        52.19561500000
+                    ],
+                    [
+                        21.06250500000,
+                        52.19545100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Pozwolenie na budowę": "",
+                "Identyfikator MPZP": "9 KUL",
+                "Data uzyskania PnB": "",
+                "Nazwa": "Piniowa",
+                "Inwestor": "SGI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07069100000,
+                        52.21168500000
+                    ],
+                    [
+                        21.07070618362,
+                        52.21158839102
+                    ],
+                    [
+                        21.07072600000,
+                        52.21148600000
+                    ],
+                    [
+                        21.07092700000,
+                        52.21085900000
+                    ],
+                    [
+                        21.07117700000,
+                        52.21009700000
+                    ],
+                    [
+                        21.07126000000,
+                        52.20978000000
+                    ],
+                    [
+                        21.07123900000,
+                        52.20961300000
+                    ],
+                    [
+                        21.07113536723,
+                        52.20940040610
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "w budowie",
+                "Pozwolenie na budowę": "https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-drogi-gminnej-ul-bluszczanskiej-oznaczonej-w-jako-8-kul-na-odcinku-od-skrzyzowania-z-ul-figowa-do-skrzyzowania-z-droga-9-kul https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Zawiadomienie_o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwol.htm",
+                "Data uzyskania PnB": "08.08.2024",
+                "Identyfikator MPZP": "8 KUL",
+                "Nazwa": "Bluszczańska",
+                "Inwestor": "Mill-yon",
+                "opis": "http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504767.343740558&Y=5786205.091896309&S=17&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06901700000,
+                        52.20939500000
+                    ],
+                    [
+                        21.06920200000,
+                        52.20942500000
+                    ],
+                    [
+                        21.06939600000,
+                        52.20944800000
+                    ],
+                    [
+                        21.06956500000,
+                        52.20946100000
+                    ],
+                    [
+                        21.06977900000,
+                        52.20945700000
+                    ],
+                    [
+                        21.07113536723,
+                        52.20940040610
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Identyfikator MPZP": "8 KDL",
+                "Nazwa": "Bluszczańska",
+                "Inwestor": "Budimex Nieruchomości",
+                "Oddanie do użytku": "~2015"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06284300000,
+                        52.20912400000
+                    ],
+                    [
+                        21.06305200000,
+                        52.20914700000
+                    ],
+                    [
+                        21.06317800000,
+                        52.20915800000
+                    ],
+                    [
+                        21.06459200000,
+                        52.20930500000
+                    ],
+                    [
+                        21.06478800000,
+                        52.20931900000
+                    ],
+                    [
+                        21.06495400000,
+                        52.20931800000
+                    ],
+                    [
+                        21.06545000000,
+                        52.20929300000
+                    ],
+                    [
+                        21.06609400000,
+                        52.20923400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Wolicka",
+                "Identyfikator MPZP": "17 KDL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07067800000,
+                        52.20088700000
+                    ],
+                    [
+                        21.07439500000,
+                        52.20247200000
+                    ],
+                    [
+                        21.07462000000,
+                        52.20259700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Polska",
+                "Status": "w budowie",
+                "Identyfikator MPZP": "10 KUL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07448951413,
+                        52.20689215633
+                    ],
+                    [
+                        21.07459900000,
+                        52.20343800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "zbudowana",
+                "Nazwa": "Grupy AK \"Północ\"",
+                "Identyfikator MPZP": "7 KDL",
+                "Oddanie do użytku": "02.2019"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05902100000,
+                        52.20873400000
+                    ],
+                    [
+                        21.05909600000,
+                        52.20833000000
+                    ],
+                    [
+                        21.05902100000,
+                        52.20796800000
+                    ]
+                ]
+            }
+        }
+    ]
+}
