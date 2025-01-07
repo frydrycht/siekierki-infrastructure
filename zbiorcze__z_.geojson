@@ -5,7 +5,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "4 KDZ"
+                "Identyfikator MPZP": "4 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -29,7 +31,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "4 KDZ",
-                "Nazwa": "Batalionu AK \"Bałtyk\""
+                "Nazwa": "Batalionu AK \"Bałtyk\"",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -39,8 +42,12 @@
                         52.20919700000
                     ],
                     [
-                        21.06563074164,
-                        52.21228879266
+                        21.06563050393,
+                        52.21229232005
+                    ],
+                    [
+                        21.06560101332,
+                        52.21238247309
                     ]
                 ]
             }
@@ -48,7 +55,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "5 KDZ"
+                "Identyfikator MPZP": "5 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -87,7 +96,51 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "4 KDZ"
+                "Nazwa": "Bartycka",
+                "Identyfikator MPZP": "6 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08415474772,
+                        52.20589268388
+                    ],
+                    [
+                        21.08436061397,
+                        52.20554051793
+                    ],
+                    [
+                        21.08465704710,
+                        52.20526196065
+                    ],
+                    [
+                        21.08513795742,
+                        52.20500284140
+                    ],
+                    [
+                        21.08670093138,
+                        52.20454583272
+                    ],
+                    [
+                        21.08797995251,
+                        52.20420078514
+                    ],
+                    [
+                        21.08819538298,
+                        52.20413909297
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "4 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -115,7 +168,8 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Bartycka",
-                "Identyfikator MPZP": "3 KUZ"
+                "Identyfikator MPZP": "3 KUZ",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -215,7 +269,8 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Bartycka",
-                "Identyfikator MPZP": "3 KUZ"
+                "Identyfikator MPZP": "3 KUZ",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -325,7 +380,8 @@
                 "Data uzyskania PnB": "",
                 "opis": "",
                 "Nazwa": "Batalionu AK \"Bałtyk\"",
-                "Inwestor": "Budimex Nieruchomości/Spravia"
+                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -388,36 +444,79 @@
         {
             "type": "Feature",
             "properties": {
+                "Pozwolenie na budowę": "",
+                "Inwestor": "UM Warszawa",
                 "Nazwa": "Bartycka",
-                "Identyfikator MPZP": "6 KDZ"
+                "Identyfikator MPZP": "5 KDZ",
+                "Data uzyskania PnB": "",
+                "Status": "projektowanie",
+                "opis": "28.08.2023 podpisano umowę na projekt przebudowy\nProjektant w sierpniu 2021 odstąpił od umowy https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\nhttps://zmid.waw.pl/inwestycje-zmid/zadania-w-przygotowaniu/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/#tab-3 \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm (zawieszone)\n",
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        21.08415474772,
-                        52.20589268388
+                        21.04760100000,
+                        52.21153700000
                     ],
                     [
-                        21.08436061397,
-                        52.20554051793
+                        21.04982200000,
+                        52.21232900000
                     ],
                     [
-                        21.08465704710,
-                        52.20526196065
+                        21.05088900000,
+                        52.21253700000
                     ],
                     [
-                        21.08513795742,
-                        52.20500284140
+                        21.05595900000,
+                        52.21321400000
                     ],
                     [
-                        21.08670093138,
-                        52.20454583272
+                        21.05647900000,
+                        52.21326600000
                     ],
                     [
-                        21.08797995251,
-                        52.20420078514
+                        21.05724100000,
+                        52.21313100000
                     ],
+                    [
+                        21.06014800000,
+                        52.21259900000
+                    ],
+                    [
+                        21.06166600000,
+                        52.21235600000
+                    ],
+                    [
+                        21.06226700000,
+                        52.21225300000
+                    ],
+                    [
+                        21.06312000000,
+                        52.21219800000
+                    ],
+                    [
+                        21.06542917357,
+                        52.21228475604
+                    ],
+                    [
+                        21.06563050393,
+                        52.21229232005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Bartycka",
+                "Identyfikator MPZP": "7 KDZ",
+                "Autobus": "MPZP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         21.08819538298,
                         52.20413909297
@@ -503,121 +602,100 @@
                 "Pozwolenie na budowę": "",
                 "Inwestor": "UM Warszawa",
                 "Nazwa": "Bartycka",
-                "Identyfikator MPZP": "5 KDZ / 3 KUZ",
+                "Identyfikator MPZP": "5 KDZ",
                 "Data uzyskania PnB": "",
                 "Status": "projektowanie",
-                "opis": "28.08.2023 podpisano umowę na projekt przebudowy\nProjektant w sierpniu 2021 odstąpił od umowy https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\nhttps://zmid.waw.pl/inwestycje-zmid/zadania-w-przygotowaniu/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/#tab-3 \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm (zawieszone)\n"
+                "opis": "28.08.2023 podpisano umowę na projekt przebudowy\nProjektant w sierpniu 2021 odstąpił od umowy https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\nhttps://zmid.waw.pl/inwestycje-zmid/zadania-w-przygotowaniu/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/#tab-3 \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm (zawieszone)\n",
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        21.04754700000,
-                        52.21166900000
+                        21.06560101332,
+                        52.21238247309
                     ],
                     [
-                        21.04961300000,
-                        52.21237500000
-                    ],
-                    [
-                        21.05040100000,
-                        52.21256300000
-                    ],
-                    [
-                        21.05263800000,
-                        52.21286800000
-                    ],
-                    [
-                        21.05513300000,
-                        52.21326000000
-                    ],
-                    [
-                        21.05642000000,
-                        52.21336800000
-                    ],
-                    [
-                        21.05792700000,
-                        52.21316800000
-                    ],
-                    [
-                        21.06057200000,
-                        52.21266100000
-                    ],
-                    [
-                        21.06184900000,
-                        52.21242500000
-                    ],
-                    [
-                        21.06290600000,
-                        52.21232000000
+                        21.06539827402,
+                        52.21237588921
                     ],
                     [
                         21.06512600000,
                         52.21236600000
                     ],
                     [
-                        21.06849500000,
-                        52.21249700000
+                        21.06290600000,
+                        52.21232000000
                     ],
                     [
-                        21.07298000000,
-                        52.21258900000
+                        21.06184900000,
+                        52.21242500000
                     ],
+                    [
+                        21.06057200000,
+                        52.21266100000
+                    ],
+                    [
+                        21.05792700000,
+                        52.21316800000
+                    ],
+                    [
+                        21.05642000000,
+                        52.21336800000
+                    ],
+                    [
+                        21.05513300000,
+                        52.21326000000
+                    ],
+                    [
+                        21.05263800000,
+                        52.21286800000
+                    ],
+                    [
+                        21.05040100000,
+                        52.21256300000
+                    ],
+                    [
+                        21.04961300000,
+                        52.21237500000
+                    ],
+                    [
+                        21.04754700000,
+                        52.21166900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "",
+                "Inwestor": "UM Warszawa",
+                "Nazwa": "Bartycka",
+                "Identyfikator MPZP": "3 KUZ",
+                "Data uzyskania PnB": "",
+                "Status": "projektowanie",
+                "opis": "28.08.2023 podpisano umowę na projekt przebudowy\nProjektant w sierpniu 2021 odstąpił od umowy https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\nhttps://zmid.waw.pl/inwestycje-zmid/zadania-w-przygotowaniu/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/#tab-3 \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm (zawieszone)\n",
+                "Autobus": "Funkcjonuje"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         21.07357500000,
                         52.21253700000
                     ],
                     [
                         21.07298000000,
-                        52.21248100000
+                        52.21258900000
                     ],
                     [
-                        21.07011000000,
-                        52.21244400000
+                        21.06849500000,
+                        52.21249700000
                     ],
                     [
-                        21.06721900000,
-                        52.21235200000
-                    ],
-                    [
-                        21.06312000000,
-                        52.21219800000
-                    ],
-                    [
-                        21.06226700000,
-                        52.21225300000
-                    ],
-                    [
-                        21.06166600000,
-                        52.21235600000
-                    ],
-                    [
-                        21.06014800000,
-                        52.21259900000
-                    ],
-                    [
-                        21.05724100000,
-                        52.21313100000
-                    ],
-                    [
-                        21.05647900000,
-                        52.21326600000
-                    ],
-                    [
-                        21.05595900000,
-                        52.21321400000
-                    ],
-                    [
-                        21.05088900000,
-                        52.21253700000
-                    ],
-                    [
-                        21.04982200000,
-                        52.21232900000
-                    ],
-                    [
-                        21.04760100000,
-                        52.21153700000
+                        21.06560101332,
+                        52.21238247309
                     ]
                 ]
             }
@@ -626,7 +704,8 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Bartycka",
-                "Identyfikator MPZP": "6 KDZ"
+                "Identyfikator MPZP": "7 KDZ",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -690,34 +769,6 @@
                     [
                         21.08826376597,
                         52.20424264691
-                    ],
-                    [
-                        21.08804224620,
-                        52.20429694910
-                    ],
-                    [
-                        21.08675617149,
-                        52.20465129956
-                    ],
-                    [
-                        21.08527070210,
-                        52.20508487366
-                    ],
-                    [
-                        21.08482914131,
-                        52.20531925039
-                    ],
-                    [
-                        21.08455210637,
-                        52.20554940368
-                    ],
-                    [
-                        21.08441059120,
-                        52.20575933726
-                    ],
-                    [
-                        21.08431124620,
-                        52.20599746972
                     ]
                 ]
             }
@@ -732,7 +783,8 @@
                 "Data uzyskania PnB": "",
                 "opis": "",
                 "Nazwa": "Batalionu AK \"Bałtyk\"",
-                "Inwestor": "Budimex Nieruchomości/Spravia"
+                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -811,7 +863,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "5 KDZ"
+                "Identyfikator MPZP": "5 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -834,7 +888,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "5 KDZ"
+                "Identyfikator MPZP": "5 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -870,7 +926,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "4 KDZ",
-                "Nazwa": "Batalionu AK \"Bałtyk\""
+                "Nazwa": "Batalionu AK \"Bałtyk\"",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -880,8 +937,12 @@
                         52.20920900000
                     ],
                     [
-                        21.06543224924,
-                        52.21228481101
+                        21.06542917357,
+                        52.21228475604
+                    ],
+                    [
+                        21.06539827402,
+                        52.21237588921
                     ]
                 ]
             }
@@ -889,7 +950,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "5 KDZ"
+                "Identyfikator MPZP": "5 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -909,6 +972,90 @@
                     [
                         21.08496511485,
                         52.19736178129
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Pozwolenie na budowę": "",
+                "Inwestor": "UM Warszawa",
+                "Nazwa": "Bartycka",
+                "Identyfikator MPZP": "3 KUZ",
+                "Data uzyskania PnB": "",
+                "Status": "projektowanie",
+                "opis": "28.08.2023 podpisano umowę na projekt przebudowy\nProjektant w sierpniu 2021 odstąpił od umowy https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\nhttps://zmid.waw.pl/inwestycje-zmid/zadania-w-przygotowaniu/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/#tab-3 \nhttps://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm (zawieszone)\n",
+                "Autobus": "Funkcjonuje"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06563050393,
+                        52.21229232005
+                    ],
+                    [
+                        21.06721900000,
+                        52.21235200000
+                    ],
+                    [
+                        21.07011000000,
+                        52.21244400000
+                    ],
+                    [
+                        21.07298000000,
+                        52.21248100000
+                    ],
+                    [
+                        21.07357500000,
+                        52.21253700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Bartycka",
+                "Identyfikator MPZP": "6 KDZ",
+                "Autobus": "MPZP",
+                "Tramwaj": "MPZP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08826376597,
+                        52.20424264691
+                    ],
+                    [
+                        21.08804224620,
+                        52.20429694910
+                    ],
+                    [
+                        21.08675617149,
+                        52.20465129956
+                    ],
+                    [
+                        21.08527070210,
+                        52.20508487366
+                    ],
+                    [
+                        21.08482914131,
+                        52.20531925039
+                    ],
+                    [
+                        21.08455210637,
+                        52.20554940368
+                    ],
+                    [
+                        21.08441059120,
+                        52.20575933726
+                    ],
+                    [
+                        21.08431124620,
+                        52.20599746972
                     ]
                 ]
             }

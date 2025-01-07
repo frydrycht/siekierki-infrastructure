@@ -134,7 +134,8 @@
             "properties": {
                 "Status": "zbudowana",
                 "Nazwa": "Gościniec",
-                "Identyfikator MPZP": "25 KUD"
+                "Identyfikator MPZP": "25 KUD",
+                "Autobus": "Funkcjonuje - brak MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -450,7 +451,8 @@
             "properties": {
                 "Status": "zbudowana",
                 "Nazwa": "Gościniec",
-                "Identyfikator MPZP": "27 KUD"
+                "Identyfikator MPZP": "27 KUD",
+                "Autobus": "Funkcjonuje - brak MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -771,7 +773,8 @@
             "properties": {
                 "Status": "zbudowana",
                 "Nazwa": "Antoniewska",
-                "Identyfikator MPZP": "39 KDD"
+                "Identyfikator MPZP": "39 KDD",
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
@@ -903,7 +906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "37 KDD"
+                "Identyfikator MPZP": "37 KDD",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -1048,7 +1052,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "38 KDD"
+                "Identyfikator MPZP": "38 KDD",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -1096,7 +1101,8 @@
             "properties": {
                 "Status": "zbudowana",
                 "Nazwa": "Antoniewska",
-                "Identyfikator MPZP": "40 KDD"
+                "Identyfikator MPZP": "40 KDD",
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
@@ -1501,7 +1507,8 @@
             "properties": {
                 "Identyfikator MPZP": "41 KDD",
                 "Status": "zbudowana",
-                "Nazwa": "Antoniewska"
+                "Nazwa": "Antoniewska",
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
@@ -2367,7 +2374,8 @@
             "properties": {
                 "Status": "zbudowana",
                 "Nazwa": "Kaloryczna",
-                "Identyfikator MPZP": "38 KDD"
+                "Identyfikator MPZP": "38 KDD",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -3157,7 +3165,8 @@
             "properties": {
                 "Nazwa": "Polska",
                 "Status": "zbudowana",
-                "Identyfikator MPZP": "36 KDD"
+                "Identyfikator MPZP": "36 KDD",
+                "Autobus": "Funkcjonuje - brak MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -3357,7 +3366,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "36 KDD"
+                "Identyfikator MPZP": "36 KDD",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
