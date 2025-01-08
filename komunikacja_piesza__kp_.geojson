@@ -5,6 +5,71 @@
         {
             "type": "Feature",
             "properties": {
+                "Identyfikator MPZP": "2 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08865971425,
+                        52.19793305072
+                    ],
+                    [
+                        21.09055124276,
+                        52.19623745374
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "4 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07673033042,
+                        52.20793433601
+                    ],
+                    [
+                        21.07677829227,
+                        52.20781903307
+                    ],
+                    [
+                        21.07657906613,
+                        52.20755225259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "50 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05985759244,
+                        52.20647827783
+                    ],
+                    [
+                        21.05992542782,
+                        52.20639975528
+                    ],
+                    [
+                        21.06518643893,
+                        52.20311554073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Identyfikator MPZP": "4 KDP"
             },
             "geometry": {
@@ -24,114 +89,19 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "49 KP"
+                "Identyfikator MPZP": "46 KP",
+                "Nazwa": "Pułku AK \"Broda\""
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        21.06315400000,
-                        52.20971700000
+                        21.05186055784,
+                        52.20928190160
                     ],
                     [
-                        21.06459400000,
-                        52.20942600000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Identyfikator MPZP": "38 KDKP"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        21.05670627355,
-                        52.20011942347
-                    ],
-                    [
-                        21.05834198258,
-                        52.20032287141
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Identyfikator MPZP": "7 KDP"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        21.07378882860,
-                        52.20130779298
-                    ],
-                    [
-                        21.07165064288,
-                        52.20038207866
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Identyfikator MPZP": "3 KDP"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        21.08867181427,
-                        52.19793296597
-                    ],
-                    [
-                        21.08665647120,
-                        52.19977545486
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "51 KP"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        21.06757700000,
-                        52.20589700000
-                    ],
-                    [
-                        21.06797900000,
-                        52.20452600000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Identyfikator MPZP": "43 KP"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        21.06332300000,
-                        52.21517700000
-                    ],
-                    [
-                        21.06371500000,
-                        52.21602500000
+                        21.05287432001,
+                        52.20768842907
                     ]
                 ]
             }
@@ -162,18 +132,22 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "2 KDP"
+                "Identyfikator MPZP": "1 KPJ"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        21.08865971425,
-                        52.19793305072
+                        21.07074985889,
+                        52.21289320830
                     ],
                     [
-                        21.09055124276,
-                        52.19623745374
+                        21.07166851273,
+                        52.21293389884
+                    ],
+                    [
+                        21.07191016665,
+                        52.21295989555
                     ]
                 ]
             }
@@ -181,20 +155,22 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "47 KP",
-                "Nazwa": "Wojskowej Służby Kobiet"
+                "Identyfikator MPZP": "9 KDP"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        21.05901000000,
-                        52.20873100000
+                        21.08172475945,
+                        52.20379511422
                     ],
                     [
-                        21.05417100000,
-                        52.20822100000
+                        21.08250135556,
+                        52.20309197692
+                    ],
+                    [
+                        21.08329839157,
+                        52.20237032157
                     ]
                 ]
             }
@@ -221,6 +197,220 @@
         {
             "type": "Feature",
             "properties": {
+                "Identyfikator MPZP": "1 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06692001369,
+                        52.21359091932
+                    ],
+                    [
+                        21.06662606035,
+                        52.21255873289
+                    ],
+                    [
+                        21.06662606035,
+                        52.21249638529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "44 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05106537636,
+                        52.21149188412
+                    ],
+                    [
+                        21.04963329597,
+                        52.21222159298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "5 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07967958599,
+                        52.20190658203
+                    ],
+                    [
+                        21.08132449762,
+                        52.20259546873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "6 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08064475500,
+                        52.20817172346
+                    ],
+                    [
+                        21.08050086946,
+                        52.20782129392
+                    ],
+                    [
+                        21.08037543079,
+                        52.20766981707
+                    ],
+                    [
+                        21.08023523462,
+                        52.20755225259
+                    ],
+                    [
+                        21.08060048253,
+                        52.20744825298
+                    ],
+                    [
+                        21.08071854246,
+                        52.20734877487
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "38 KDKP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05670627355,
+                        52.20011942347
+                    ],
+                    [
+                        21.05834198258,
+                        52.20032287141
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "47 KP",
+                "Status": "istniejąca",
+                "Nazwa": "Wojskowej Służby Kobiet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05901000000,
+                        52.20873100000
+                    ],
+                    [
+                        21.05417100000,
+                        52.20822100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "istniejąca",
+                "Nazwa": "Daktylowa",
+                "Identyfikator MPZP": "3 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06881600000,
+                        52.21229400000
+                    ],
+                    [
+                        21.06967400000,
+                        52.20946100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "5 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07113724119,
+                        52.21194036197
+                    ],
+                    [
+                        21.07129035017,
+                        52.21147919002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "49 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06315400000,
+                        52.20971700000
+                    ],
+                    [
+                        21.06459400000,
+                        52.20942600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "3 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08867181427,
+                        52.19793296597
+                    ],
+                    [
+                        21.08665647120,
+                        52.19977545486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Identyfikator MPZP": "48 KP"
             },
             "geometry": {
@@ -240,20 +430,225 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "3 KPJ",
-                "Nazwa": "Daktylowa"
+                "Identyfikator MPZP": "1 KPJ"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        21.06881600000,
-                        52.21229400000
+                        21.07166851273,
+                        52.21293389884
                     ],
                     [
-                        21.06967400000,
-                        52.20946100000
+                        21.07167220210,
+                        52.21259141896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "1 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08354512832,
+                        52.20425211351
+                    ],
+                    [
+                        21.08402763573,
+                        52.20578101078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "8 KPJw"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07630236317,
+                        52.20489114261
+                    ],
+                    [
+                        21.07702916962,
+                        52.20520315865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "6 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08250135556,
+                        52.20309197692
+                    ],
+                    [
+                        21.08132449762,
+                        52.20259546873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "7 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07378882860,
+                        52.20130779298
+                    ],
+                    [
+                        21.07165064288,
+                        52.20038207866
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "5 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07153938283,
+                        52.21151083923
+                    ],
+                    [
+                        21.07129035017,
+                        52.21147919002
+                    ],
+                    [
+                        21.07114093057,
+                        52.21146110475
+                    ],
+                    [
+                        21.07121471802,
+                        52.21122599554
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "43 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06332300000,
+                        52.21517700000
+                    ],
+                    [
+                        21.06371500000,
+                        52.21602500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "7 KPJw"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.08258167759,
+                        52.20917325733
+                    ],
+                    [
+                        21.08159661504,
+                        52.20931907714
+                    ],
+                    [
+                        21.08137340799,
+                        52.20938124823
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "2 KPJ"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07241376604,
+                        52.21299493458
+                    ],
+                    [
+                        21.07251706848,
+                        52.21307857601
+                    ],
+                    [
+                        21.07241561073,
+                        52.21350017165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "2 KDP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07510548369,
+                        52.19414853540
+                    ],
+                    [
+                        21.07899848116,
+                        52.19724399593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "istniejąca",
+                "Identyfikator MPZP": "51 KP"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06757700000,
+                        52.20589700000
+                    ],
+                    [
+                        21.06797900000,
+                        52.20452600000
                     ]
                 ]
             }
