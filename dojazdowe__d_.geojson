@@ -237,7 +237,8 @@
                 "Data uzyskania PnB": "",
                 "Inwestor": "Atal",
                 "opis": "",
-                "Identyfikator MPZP": "20 KUD"
+                "Identyfikator MPZP": "20 KUD",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5314-2017-z-2017-11-22-5193334-6169637-3526121\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -281,8 +282,9 @@
                 "Nazwa": "Dywizjonu AK \"Jeleń\"",
                 "Data uzyskania PnB": "",
                 "Identyfikator MPZP": "14 KDD",
-                "Oddanie do użytku": "~04.2021",
-                "Inwestor": "Budimex Nieruchomości/Spravia"
+                "Oddanie do użytku": "~09.2020",
+                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6332-2018-z-2018-07-04-1642239-7694724-2766973\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -358,7 +360,8 @@
                 "Data uzyskania PnB": "01.02.2023",
                 "Inwestor": "Spravia (Budimex Nieruchomości)",
                 "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
-                "Status": "pozwolenie"
+                "Status": "pozwolenie",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -532,7 +535,8 @@
                 "Inwestor": "Spravia (Budimex Nieruchomości)",
                 "Nazwa": "Batalionu AK \"Bałtyk\"",
                 "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
-                "Status": "pozwolenie"
+                "Status": "pozwolenie",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -653,7 +657,8 @@
                 "Status": "istniejąca",
                 "Identyfikator MPZP": "35 KDD",
                 "Inwestor": "APM",
-                "Oddanie do użytku": "2015"
+                "Oddanie do użytku": "2015",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2313-2012-z-2012-07-18-1692528-7546080-6731213\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -677,7 +682,8 @@
                 "Status": "w budowie",
                 "Identyfikator MPZP": "19 KUD",
                 "Nazwa": "Grejpfrutowa",
-                "Inwestor": "SGI"
+                "Inwestor": "SGI",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2740-2022-z-2022-01-19-2635917-8048831-9625415\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -706,7 +712,8 @@
                 "Data uzyskania PnB": "",
                 "Nazwa": "Ananasowa",
                 "opis": "Spravia (Budimex Nieruchomości)",
-                "Inwestor": "Budimex Nieruchomości"
+                "Inwestor": "Budimex Nieruchomości",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-1390-2015-z-2015-09-23-5479726-9977009-3515020\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -748,7 +755,8 @@
                 "Status": "istniejąca",
                 "Inwestor": "Budimex Nieruchomości",
                 "Identyfikator MPZP": "10 KDD",
-                "Oddanie do użytku": "~2015"
+                "Oddanie do użytku": "~2015",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1405,7 +1413,8 @@
                 "Identyfikator MPZP": "34 KUD",
                 "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504844.072907227&Y=5785784.536687978&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "Status": "pozwolenie",
-                "Inwestor": "SGI"
+                "Inwestor": "SGI",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-4288-2023-z-2023-08-30-7365831-2885409-2048880\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1593,7 +1602,8 @@
                 "Data uzyskania PnB": "01.02.2023",
                 "Inwestor": "Spravia (Budimex Nieruchomości)",
                 "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
-                "Status": "pozwolenie"
+                "Status": "pozwolenie",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1863,7 +1873,8 @@
                 "Oddanie do użytku": "2012",
                 "Status": "istniejąca",
                 "Identyfikator MPZP": "35 KDD",
-                "Inwestor": "APM"
+                "Inwestor": "APM",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2313-2012-z-2012-07-18-1692528-7546080-6731213\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2127,7 +2138,8 @@
                 "Nazwa": "Ananasowa",
                 "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-budowe-fragmentow-drog-gminnych-ul.-ananasowej-16-kdd-oraz-ul.-gasocinskiej-34-kud.-966938\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-budowe-drog-gminnych-ul.-ananasowej-ul.-bartyckiej-ul.-dywizjonu-ak-jelen-ul.-gasocinskiej.-5256171\">Wszczęcie</a>",
                 "Status": "pozwolenie",
-                "Inwestor": "SGI"
+                "Inwestor": "SGI",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-4288-2023-z-2023-08-30-7365831-2885409-2048880\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2561,7 +2573,8 @@
                 "Identyfikator MPZP": "35 KDD",
                 "Nazwa": "Grupy AK \"Krybar\"",
                 "Inwestor": "Budimex Nieruchomości",
-                "Oddanie do użytku": "~2015"
+                "Oddanie do użytku": "~2015",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5592-2014-z-2014-03-26-7110845-1954993-7209555\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2586,7 +2599,8 @@
                 "Oddanie do użytku": "~09.2020",
                 "Inwestor": "Budimex Nieruchomości/Spravia",
                 "Nazwa": "Marii Cetysówny",
-                "Identyfikator MPZP": "15 KDD"
+                "Identyfikator MPZP": "15 KDD",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6332-2018-z-2018-07-04-1642239-7694724-2766973\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2772,9 +2786,10 @@
                 "Pozwolenie na budowę": "",
                 "Nazwa": "Dywizjonu AK \"Jeleń\"",
                 "Data uzyskania PnB": "",
-                "Oddanie do użytku": "~09.2020",
+                "Oddanie do użytku": "~04.2021",
                 "Identyfikator MPZP": "14 KDD",
-                "Inwestor": "Budimex Nieruchomości/Spravia"
+                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6706-2018-z-2018-09-26-4497828-7401423-2606736\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -3132,7 +3147,8 @@
                 "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna\">Decyzja</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania\">Zebranie materiałów</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez\">Ponowne wszczęcie</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej\">Umorzenie</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_w_sprawie_wszczecia_postepowania_administracyjnego__w_sprawie_rozbudowy_ulicy.htm\">Wszczęcie</a>",
                 "Inwestor": "Mill-yon",
                 "Identyfikator MPZP": "27 KUD",
-                "Status": "pozwolenie"
+                "Status": "pozwolenie",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",

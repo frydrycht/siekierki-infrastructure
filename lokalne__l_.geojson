@@ -9,7 +9,8 @@
                 "Identyfikator MPZP": "8 KDL",
                 "Nazwa": "Bluszczańska",
                 "Inwestor": "Budimex Nieruchomości",
-                "Oddanie do użytku": "~2015"
+                "Oddanie do użytku": "~2015",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -174,7 +175,8 @@
                 "Nazwa": "Ananasowa",
                 "opis": "Spravia (Budimex Nieruchomości)",
                 "Oddanie do użytku": "~09.2020",
-                "Inwestor": "Budimex Nieruchomości"
+                "Inwestor": "Budimex Nieruchomości",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6332-2018-z-2018-07-04-1642239-7694724-2766973\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -729,7 +731,8 @@
                 "Nazwa": "Marzycieli",
                 "Identyfikator MPZP": "7 KUL",
                 "Inwestor": "YIT",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -856,7 +859,8 @@
                 "Data uzyskania PnB": "",
                 "Nazwa": "Piniowa",
                 "Inwestor": "SGI",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5383-2014-z-2014-02-12-1008114-7723010-3423627\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -930,7 +934,8 @@
                 "Data uzyskania PnB": "",
                 "Inwestor": "Budimex Nieruchomości/Spravia",
                 "Oddanie do użytku": "~04.2021",
-                "Nazwa": "Marii Cetysówny"
+                "Nazwa": "Marii Cetysówny",
+                "Umowa":"<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6706-2018-z-2018-09-26-4497828-7401423-2606736\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1775,7 +1780,8 @@
                 "Status": "wniosek o pozwolenie",
                 "Nazwa": "Piniowa",
                 "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504840.831761387&Y=5786489.45283382&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
