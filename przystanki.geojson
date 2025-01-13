@@ -1,0 +1,908 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        21.07424500000,
+        52.20527920000,
+        21.07473850000,
+        52.20668620000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Sielce 01",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04847970000,
+                    52.20591650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Ogrody Działkowe Budowlani II 01",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08509240000,
+                    52.19715590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Bartycka 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04689930000,
+                    52.21209940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Małe Siekierki 03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06898580000,
+                    52.20226180000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Figowa 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06726910000,
+                    52.21230960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Statkowskiego 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08274420000,
+                    52.19009820000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Antoniewska 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07791620000,
+                    52.20038120000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Łososiowa 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07348710000,
+                    52.21212050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Małe Siekierki 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07030100000,
+                    52.20287510000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Figowa 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06779780000,
+                    52.21244870000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Batalionu AK „Bałtyk” 01",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06390390000,
+                    52.20549810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Bartycka 05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04740300000,
+                    52.21046070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Małe Siekierki 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06677150000,
+                    52.20311990000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Siekierki-Sanktuarium 03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08306520000,
+                    52.20831530000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Ananasowa 51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07543370000,
+                    52.20307520000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Antoniewska 01",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07732260000,
+                    52.20061420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Łososiowa 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07417700000,
+                    52.21174570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "<bez-nazwy>",
+                "Status": "Nieużywany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06388250080,
+                    52.20614973222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Gąsocińska 02",
+                "Rodzaj": "Autobusowy",
+                "Status": "Zawieszony"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07458810000,
+                    52.20633150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Statkowskiego 04",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08259460000,
+                    52.19054590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Kaloryczna 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08090390000,
+                    52.19891630000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Augustówka 02",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08776650000,
+                    52.19446620000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Siekierkowska 02",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07742310000,
+                    52.20892150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "EC Siekierki 04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08509060000,
+                    52.19334440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Augustówka 01",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08775710000,
+                    52.19493500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Siekierki-Sanktuarium 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08351210000,
+                    52.20661890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Grupy AK „Północ” 01",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05969420000,
+                    52.20789710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Siekierkowska 01",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07727070000,
+                    52.20877210000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "<bez-nazwy>",
+                "Status": "Rezerwa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07493866602,
+                    52.20686940911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Batalionu AK „Bałtyk” 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06285780000,
+                    52.20629460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Ogrody Działkowe Budowlani II 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08485590000,
+                    52.19750390000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "EC Siekierki 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08392180000,
+                    52.19342070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Ananasowa 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07570430000,
+                    52.20310280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Siekierki-Sanktuarium 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08302550000,
+                    52.20676200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "<bez-nazwy>",
+                "Status": "Nieużywany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06648429188,
+                    52.20865112601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Ogrody Działkowe Czerniaków 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06012140000,
+                    52.20203950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Sypniewska 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07450230000,
+                    52.19092780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Bartycka 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04738940000,
+                    52.21229760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Gąsocińska 01",
+                "Rodzaj": "Autobusowy",
+                "Status": "Zawieszony"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07446580000,
+                    52.20532290000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Budexpo 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05803650000,
+                    52.21311110000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "EC Siekierki 03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08495780000,
+                    52.19339450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "<bez-nazwy>",
+                "Status": "Rezerwa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07974380123,
+                    52.20810561735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Kaloryczna 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08127000000,
+                    52.19868200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Sypniewska 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07561640000,
+                    52.19057970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Budexpo 01",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05919210000,
+                    52.21272440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Bartycka 03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04820100000,
+                    52.21168680000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Grupy AK „Północ” 02",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05836770000,
+                    52.20812890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Sielce 03",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05041560000,
+                    52.20712740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Łososiowa 53",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.07331850000,
+                    52.21257400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Sielce 04",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04752030000,
+                    52.20715890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "EC Siekierki 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08403080000,
+                    52.19310810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Sielce 05",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Tramwajowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04741040000,
+                    52.20699750000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "EC Siekierki 05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08522940000,
+                    52.19332860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Sielce 06",
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Tramwajowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04756100000,
+                    52.20699000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Małe Siekierki 04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06806080000,
+                    52.20378020000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Ogrody Działkowe Czerniaków 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06094590000,
+                    52.20163500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Nazwa": "Sielce 02",
+                "Rodzaj": "Autobusowy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04862960000,
+                    52.20776460000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Ku Wiśle 02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06359350000,
+                    52.21229690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Statkowskiego 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.08322270000,
+                    52.19076690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "Funkcjonujący",
+                "Rodzaj": "Autobusowy",
+                "Nazwa": "Ku Wiśle 01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06349610000,
+                    52.21218790000
+                ]
+            }
+        }
+    ]
+}
