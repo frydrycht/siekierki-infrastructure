@@ -1901,11 +1901,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/3ccd9e77-0826-4e6b-aee2-2dc9a9bf837f/\">Wyszukiwarka GUNB</a>",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3969-2023-z-2023-06-28-9864745-3628183-4939935\">Uchwała zarządu dzielnicy</a>",
-                "Data uzyskania PnB": "",
-                "Inwestor": "APM",
-                "Status": "wniosek o pozwolenie",
                 "Identyfikator MPZP": "40 KDD"
             },
             "geometry": {
