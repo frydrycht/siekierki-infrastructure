@@ -2673,7 +2673,7 @@
             "properties": {
                 "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Zawiadomienie_o_wydaniu_decyzji_zezwalajacej_na_budowe_fragmentow_drog_gminnych_ul__Ananaso.htm\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/NR/exeres/C89B23E8-0DD8-463F-A8AB-B43B298A38E2.htm\">Wszczęcie</a>",
                 "Nazwa": "Ananasowa",
-                "Data": "uzyskania PnB=13.04.2024",
+                "Data uzyskania PnB": "13.04.2024",
                 "Inwestor": "SGI",
                 "Status": "pozwolenie",
                 "Identyfikator MPZP": "65 KUD"
@@ -4319,6 +4319,124 @@
                     [
                         21.06426618112,
                         52.20651640339
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "20 KDD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05017864315,
+                        52.20950594748
+                    ],
+                    [
+                        21.05003236334,
+                        52.21008703708
+                    ],
+                    [
+                        21.05034131638,
+                        52.21013958204
+                    ],
+                    [
+                        21.05121016799,
+                        52.21028717123
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Zwierzyniecka",
+                "Identyfikator MPZP": "20 KDD",
+                "Status": "istniejąca"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.04845859061,
+                        52.21188435086
+                    ],
+                    [
+                        21.04890500001,
+                        52.21143695924
+                    ],
+                    [
+                        21.04903362535,
+                        52.21133959931
+                    ],
+                    [
+                        21.05012063564,
+                        52.21072529960
+                    ],
+                    [
+                        21.05018747038,
+                        52.21067507347
+                    ],
+                    [
+                        21.05021647413,
+                        52.21062175643
+                    ],
+                    [
+                        21.05034131638,
+                        52.21013958204
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Status": "istniejąca",
+                "Nazwa": "Zwierzyniecka",
+                "Identyfikator MPZP": "21 KDD"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05061243717,
+                        52.20905930773
+                    ],
+                    [
+                        21.05067801088,
+                        52.20885530434
+                    ],
+                    [
+                        21.05090889456,
+                        52.20797345551
+                    ],
+                    [
+                        21.05104623246,
+                        52.20744889183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "22 KDD",
+                "Nazwa": "Podchorążych",
+                "Status": "istniejąca"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.05090889456,
+                        52.20797345551
+                    ],
+                    [
+                        21.04927069826,
+                        52.20781827261
                     ]
                 ]
             }
