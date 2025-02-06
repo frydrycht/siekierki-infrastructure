@@ -6,10 +6,10 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "aleja Józefa Becka",
-                "Autobus": "Funkcjonuje",
-                "DDR": "istnieje",
                 "Identyfikator MPZP": "1 KDGP",
-                "Status": "istniejąca"
+                "Status": "istniejąca",
+                "Autobus": "Funkcjonuje",
+                "DDR": "istnieje"
             },
             "geometry": {
                 "type": "MultiLineString",

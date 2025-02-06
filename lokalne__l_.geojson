@@ -77,9 +77,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "4 KUL",
                 "Nazwa": "Bananowa",
+                "Identyfikator MPZP": "4 KUL",
+                "Status": "istniejąca",
                 "Autobus": "MPZP"
             },
             "geometry": {
@@ -143,9 +143,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "8 KDL",
                 "Nazwa": "Bluszczańska",
+                "Identyfikator MPZP": "8 KDL",
+                "Status": "istniejąca",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -209,15 +209,15 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
-                "DDR": "istnieje",
+                "Nazwa": "Marii Cetysówny",
                 "Identyfikator MPZP": "9 KDL",
-                "Data uzyskania PnB": "",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6706-2018-z-2018-09-26-4497828-7401423-2606736\">Uchwała zarządu dzielnicy</a>",
-                "Oddanie do użytku": "~04.2021",
+                "Status": "istniejąca",
+                "DDR": "istnieje",
                 "Inwestor": "Budimex Nieruchomości/Spravia",
-                "Nazwa": "Marii Cetysówny"
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6706-2018-z-2018-09-26-4497828-7401423-2606736\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fd21caa9-6c6e-4429-896b-7dbf6b20c42d/\">Wyszukiwarka GUNB</a>",
+                "Data uzyskania PnB": "10.08.2020",
+                "Oddanie do użytku": "~04.2021"
             },
             "geometry": {
                 "type": "LineString",
@@ -256,12 +256,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Data uzyskania PnB": "28.02.2023",
                 "Identyfikator MPZP": "7 KUL",
+                "Status": "pozwolenie",
+                "Autobus": "MPZP",
                 "Inwestor": "Ronson",
                 "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydanej-decyzji-na-budowe-drogi-gminnej-30-kud-1331711\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-toczacym-sie-postepowaniu-i-zebraniu-materialow-w-sprawie-wydania-decyzji-dot.-budowy-czesci-drog-gminnych-ul.-ananasowej-16-kdd-i-ul.-gasocinskiej-34-kud.-5061048\">Wszczęcie</a>",
-                "Status": "pozwolenie",
-                "Autobus": "MPZP"
+                "Data uzyskania PnB": "28.02.2023"
             },
             "geometry": {
                 "type": "LineString",
@@ -284,15 +284,15 @@
         {
             "type": "Feature",
             "properties": {
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
+                "Nazwa": "Piniowa",
                 "Identyfikator MPZP": "9 KUL",
+                "Status": "wniosek o pozwolenie",
+                "Autobus": "MPZP",
+                "Inwestor": "Mill-yon",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
                 "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/136e556e-f52d-4bba-82c7-25d28f222f56/\">Wyszukiwarka GUNB</a>",
                 "Data uzyskania PnB": "",
-                "Inwestor": "Mill-yon",
-                "Status": "wniosek o pozwolenie",
-                "Nazwa": "Piniowa",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504840.831761387&Y=5786489.45283382&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
-                "Autobus": "MPZP"
+                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504840.831761387&Y=5786489.45283382&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -356,8 +356,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "14 KDL",
-                "DDR": "MPZP",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "DDR": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -424,9 +424,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
+                "Nazwa": "Zawodzie",
                 "Identyfikator MPZP": "20 KDL",
-                "Nazwa": "Zawodzie"
+                "Status": "istniejąca"
             },
             "geometry": {
                 "type": "LineString",
@@ -449,15 +449,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
-                "Identyfikator MPZP": "9 KDL",
-                "Data uzyskania PnB": "",
                 "Nazwa": "Ananasowa",
-                "Oddanie do użytku": "~09.2020",
-                "opis": "Spravia (Budimex Nieruchomości)",
+                "Identyfikator MPZP": "9 KDL",
+                "Status": "istniejąca",
+                "Inwestor": "Budimex Nieruchomości",
                 "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6332-2018-z-2018-07-04-1642239-7694724-2766973\">Uchwała zarządu dzielnicy</a>",
-                "Inwestor": "Budimex Nieruchomości"
+                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/87b19beb-b8bc-499d-9c81-5bec9bb2ffce/\">Wyszukiwarka GUNB</a>",
+                "Data uzyskania PnB": "14.11.2019",
+                "Oddanie do użytku": "~09.2020"
             },
             "geometry": {
                 "type": "LineString",
@@ -477,7 +476,6 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "11 KDL",
-                "Nazwa": "11 KDL",
                 "Autobus": "MPZP"
             },
             "geometry": {
@@ -505,15 +503,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Pozwolenie na budowę": "",
-                "Inwestor": "Dom Development",
                 "Identyfikator MPZP": "15 KDL",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
-                "Data uzyskania PnB": "",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506327.52551143&Y=5784915.182000503&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>",
                 "Status": "projektowanie",
+                "Autobus": "MPZP",
                 "DDR": "MPZP",
-                "Autobus": "MPZP"
+                "Inwestor": "Dom Development",
+                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
+                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506327.52551143&Y=5784915.182000503&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -536,11 +532,11 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Oddanie do użytku": "~2012",
-                "DDR": "istnieje",
                 "Nazwa": "Grupy AK \"Północ\"",
-                "Identyfikator MPZP": "7 KDL"
+                "Identyfikator MPZP": "7 KDL",
+                "Status": "istniejąca",
+                "DDR": "istnieje",
+                "Oddanie do użytku": "~2012"
             },
             "geometry": {
                 "type": "LineString",
@@ -606,14 +602,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
-                "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504767.343740558&Y=5786205.091896309&S=17&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
-                "Data uzyskania PnB": "08.08.2024",
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KUL",
+                "Status": "w budowie",
+                "Autobus": "MPZP",
                 "Inwestor": "Mill-yon",
                 "Pozwolenie na budowę": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-drogi-gminnej-ul-bluszczanskiej-oznaczonej-w-jako-8-kul-na-odcinku-od-skrzyzowania-z-ul-figowa-do-skrzyzowania-z-droga-9-kul\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Zawiadomienie_o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwol.htm\">Wszczęcie</a>",
-                "Autobus": "MPZP",
+                "Data uzyskania PnB": "08.08.2024",
+                "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504767.343740558&Y=5786205.091896309&S=17&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
                 "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385265416-png.8031708/\">Projekt</a>"
             },
             "geometry": {
@@ -649,9 +645,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "5 KUL",
                 "Nazwa": "Nadrzeczna",
+                "Identyfikator MPZP": "5 KUL",
+                "Status": "istniejąca",
                 "Autobus": "MPZP"
             },
             "geometry": {
@@ -683,14 +679,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
-                "Identyfikator MPZP": "9 KUL",
-                "Data uzyskania PnB": "",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5383-2014-z-2014-02-12-1008114-7723010-3423627\">Uchwała zarządu dzielnicy</a>",
                 "Nazwa": "Piniowa",
+                "Identyfikator MPZP": "9 KUL",
+                "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "Inwestor": "SGI"
+                "Inwestor": "SGI",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5383-2014-z-2014-02-12-1008114-7723010-3423627\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "",
+                "Data uzyskania PnB": ""
             },
             "geometry": {
                 "type": "LineString",
@@ -861,13 +857,11 @@
         {
             "type": "Feature",
             "properties": {
-                "Pozwolenie na budowę": "",
-                "Data uzyskania PnB": "",
                 "Identyfikator MPZP": "11 KDL",
                 "Status": "projektowanie",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "Autobus": "MPZP",
-                "Inwestor": "?Dantex?"
+                "Inwestor": "?Dantex?",
+                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1005,13 +999,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Data uzyskania PnB": "9.12.2024",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
                 "Identyfikator MPZP": "9 KUL",
-                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna\">Decyzja</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania\">Zebranie materiałów</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez\">Ponowne wszczęcie</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej\">Umorzenie</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_w_sprawie_wszczecia_postepowania_administracyjnego__w_sprawie_rozbudowy_ulicy.htm\">Wszczęcie</a>",
-                "Inwestor": "Mill-yon",
                 "Status": "w budowie",
                 "Autobus": "MPZP",
+                "Inwestor": "Mill-yon",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna\">Decyzja</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania\">Zebranie materiałów</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez\">Ponowne wszczęcie</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej\">Umorzenie</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_w_sprawie_wszczecia_postepowania_administracyjnego__w_sprawie_rozbudowy_ulicy.htm\">Wszczęcie</a>",
+                "Data uzyskania PnB": "9.12.2024",
                 "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/\">Projekt</a>"
             },
             "geometry": {
@@ -1032,9 +1026,9 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Polska",
+                "Identyfikator MPZP": "10 KUL",
                 "Status": "w budowie",
-                "Autobus": "Funkcjonuje",
-                "Identyfikator MPZP": "10 KUL"
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
@@ -1053,10 +1047,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "9 KUL",
-                "Autobus": "MPZP",
                 "Nazwa": "Ananasowa",
-                "Status": "istniejąca - do przebudowy"
+                "Identyfikator MPZP": "9 KUL",
+                "Status": "istniejąca - do przebudowy",
+                "Autobus": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -1075,10 +1069,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca - do przebudowy",
+                "Nazwa": "Santocka",
                 "Identyfikator MPZP": "18 KDL",
-                "DDR": "MPZP",
-                "Nazwa": "Santocka"
+                "Status": "istniejąca - do przebudowy",
+                "DDR": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -1114,8 +1108,8 @@
             "type": "Feature",
             "properties": {
                 "Nazwa": "Dłutowska",
-                "Status": "istniejąca - do przebudowy",
                 "Identyfikator MPZP": "22 KDL",
+                "Status": "istniejąca - do przebudowy",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -1155,10 +1149,10 @@
         {
             "type": "Feature",
             "properties": {
+                "Nazwa": "Bluszczańska",
+                "Identyfikator MPZP": "8 KDL",
                 "Status": "istniejąca",
                 "DDR": "istnieje",
-                "Identyfikator MPZP": "8 KDL",
-                "Nazwa": "Bluszczańska",
                 "Inwestor": "Budimex Nieruchomości",
                 "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154\">Uchwała zarządu dzielnicy</a>",
                 "Oddanie do użytku": "~2015"
@@ -1204,14 +1198,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Pozwolenie na budowę": "",
-                "Inwestor": "Dom Development",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506220.104678084&Y=5784844.273667165&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
-                "Data uzyskania PnB": "",
-                "Status": "projektowanie",
                 "Identyfikator MPZP": "31 KDL",
-                "Autobus": "MPZP"
+                "Status": "projektowanie",
+                "Autobus": "MPZP",
+                "Inwestor": "Dom Development",
+                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
+                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506220.104678084&Y=5784844.273667165&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1231,8 +1223,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "15 KDL",
-                "DDR": "MPZP",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "DDR": "MPZP"
             },
             "geometry": {
                 "type": "LineString",
@@ -1279,10 +1271,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Autobus": "Funkcjonuje",
+                "Nazwa": "Gwintowa",
                 "Identyfikator MPZP": "6 KUL",
-                "Nazwa": "Gwintowa"
+                "Status": "istniejąca",
+                "Autobus": "Funkcjonuje"
             },
             "geometry": {
                 "type": "LineString",
@@ -1313,9 +1305,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
+                "Nazwa": "Walentego Wróblewskiego",
                 "Identyfikator MPZP": "21 KDL",
-                "Nazwa": "Walentego Wróblewskiego"
+                "Status": "istniejąca"
             },
             "geometry": {
                 "type": "LineString",
@@ -1377,14 +1369,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Inwestor": "Kątna sp. z o.o.",
-                "Pozwolenie na budowę": "",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10\">Uchwała zarządu dzielnicy</a>",
-                "Data uzyskania PnB": "",
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KUL",
                 "Status": "planowane prace",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "Inwestor": "Kątna sp. z o.o.",
+                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1403,13 +1393,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
+                "Nazwa": "Grupy AK \"Kampinos\"",
                 "Identyfikator MPZP": "6 KDL",
-                "Inwestor": "UM Warszawa",
-                "Data uzyskania PnB": "",
-                "opis": "",
-                "Nazwa": "Grupy AK \"Kampinos\""
+                "Status": "istniejąca",
+                "Inwestor": "UM Warszawa"
             },
             "geometry": {
                 "type": "LineString",
@@ -1428,11 +1415,11 @@
         {
             "type": "Feature",
             "properties": {
+                "Nazwa": "Grupy AK \"Północ\"",
+                "Identyfikator MPZP": "7 KDL",
                 "Status": "istniejąca",
                 "DDR": "istnieje",
-                "Nazwa": "Grupy AK \"Północ\"",
-                "Oddanie do użytku": "02.2019",
-                "Identyfikator MPZP": "7 KDL"
+                "Oddanie do użytku": "02.2019"
             },
             "geometry": {
                 "type": "LineString",
@@ -1579,13 +1566,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Data uzyskania PnB": "10.08.2022",
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KUL",
-                "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_o_wydaniu_decyzji_na_budowe_drogi_gminnej_19_KUD.htm\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/MOKOTOW__OBWIESZCZENIE_O_TOCZACYM_SIEPOSTEPOWANIU_BUDOWA_DROGI_GMNINNEJ_19_KUD.htm\">Postępowanie</a>",
+                "Status": "istniejąca",
                 "Autobus": "MPZP",
                 "Inwestor": "SGI",
+                "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_o_wydaniu_decyzji_na_budowe_drogi_gminnej_19_KUD.htm\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/MOKOTOW__OBWIESZCZENIE_O_TOCZACYM_SIEPOSTEPOWANIU_BUDOWA_DROGI_GMNINNEJ_19_KUD.htm\">Postępowanie</a>",
+                "Data uzyskania PnB": "10.08.2022",
                 "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385215489-png.8031706/\">Projekt</a>"
             },
             "geometry": {
@@ -1641,9 +1628,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
+                "Nazwa": "Kostrzyńska",
                 "Identyfikator MPZP": "23 KDL",
-                "Nazwa": "Kostrzyńska"
+                "Status": "istniejąca"
             },
             "geometry": {
                 "type": "LineString",
@@ -1662,9 +1649,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "14 KDL",
                 "Nazwa": "Antoniewska",
+                "Identyfikator MPZP": "14 KDL",
+                "Status": "istniejąca",
                 "Autobus": "Funkcjonuje"
             },
             "geometry": {
@@ -1709,9 +1696,9 @@
         {
             "type": "Feature",
             "properties": {
+                "Nazwa": "Santocka",
                 "Identyfikator MPZP": "19 KDL",
-                "Status": "istniejąca - do przebudowy",
-                "Nazwa": "Santocka"
+                "Status": "istniejąca - do przebudowy"
             },
             "geometry": {
                 "type": "LineString",
@@ -1866,12 +1853,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
-                "Data uzyskania PnB": "MPZP",
-                "Identyfikator MPZP": "6 KDL",
-                "opis": "",
                 "Nazwa": "Grupy AK \"Kampinos\"",
+                "Identyfikator MPZP": "6 KDL",
+                "Status": "istniejąca",
                 "Inwestor": "UD Mokotów"
             },
             "geometry": {
@@ -1891,13 +1875,11 @@
         {
             "type": "Feature",
             "properties": {
-                "Pozwolenie na budowę": "",
-                "Data uzyskania PnB": "",
                 "Identyfikator MPZP": "13 KDL",
                 "Status": "projektowanie",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "Autobus": "MPZP",
-                "Inwestor": "?Dantex?"
+                "Inwestor": "?Dantex?",
+                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -1916,13 +1898,9 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
-                "Inwestor": "",
+                "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KDL",
-                "Data uzyskania PnB": "",
-                "opis": "",
-                "Nazwa": "Bluszczańska"
+                "Status": "istniejąca"
             },
             "geometry": {
                 "type": "LineString",
@@ -1969,14 +1947,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
-                "Data uzyskania PnB": "01.06.2022",
-                "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_o_wydaniu_decyzji__na_budowe_drogi_gminnej_-_7_KUL.htm\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/ZAWIADOMIENIE__o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwoleniu_na_.htm\">Wszczęcie</a>",
                 "Nazwa": "Marzycieli",
                 "Identyfikator MPZP": "7 KUL",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082\">Uchwała zarządu dzielnicy</a>",
+                "Status": "w budowie",
+                "Autobus": "MPZP",
                 "Inwestor": "YIT",
-                "Autobus": "MPZP"
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_o_wydaniu_decyzji__na_budowe_drogi_gminnej_-_7_KUL.htm\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/ZAWIADOMIENIE__o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwoleniu_na_.htm\">Wszczęcie</a>",
+                "Data uzyskania PnB": "01.06.2022"
             },
             "geometry": {
                 "type": "LineString",
@@ -2086,14 +2064,12 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "5 KUL",
-                "Inwestor": "ZMID",
-                "opis": "<a href=\"https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/\"Opis SZRM</a>",
-                "Pozwolenie na budowę": "",
-                "Data uzyskania PnB": "",
                 "Nazwa": "Nadrzeczna",
+                "Identyfikator MPZP": "5 KUL",
                 "Status": "projektowanie",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "Inwestor": "ZMID",
+                "opis": "<a href=\"https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/\"Opis SZRM</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2136,14 +2112,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Pozwolenie na budowę": "",
-                "DDR": "istnieje",
-                "Inwestor": "",
+                "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KDL",
-                "Data uzyskania PnB": "",
-                "opis": "",
-                "Nazwa": "Bluszczańska"
+                "Status": "istniejąca",
+                "DDR": "istnieje"
             },
             "geometry": {
                 "type": "LineString",
@@ -2163,8 +2135,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "15 KDL",
-                "DDR": "MPZP",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "DDR": "MPZP"
             },
             "geometry": {
                 "type": "LineString",

@@ -7,8 +7,8 @@
             "properties": {
                 "Nazwa": "Czerniakowska-Bis",
                 "Identyfikator MPZP": "1 KDG",
-                "Tramwaj": "MPZP",
                 "Autobus": "MPZP",
+                "Tramwaj": "MPZP",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -334,14 +334,14 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Inwestor": "UM Warszawa",
+                "Nazwa": "aleja Polski Walczącej",
                 "Identyfikator MPZP": "1 KDG",
-                "Oddanie do użytku": "02.2019",
-                "Nazwa": "Aleja Polski Walczącej",
-                "Tramwaj": "MPZP",
+                "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "DDR": "istnieje"
+                "Tramwaj": "MPZP",
+                "DDR": "istnieje",
+                "Inwestor": "UM Warszawa",
+                "Oddanie do użytku": "02.2019"
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -380,13 +380,13 @@
         {
             "type": "Feature",
             "properties": {
+                "Nazwa": "aleja Polski Walczącej",
+                "Identyfikator MPZP": "3 KDG",
                 "Status": "istniejąca",
                 "Autobus": "Funkcjonuje",
+                "DDR": "istnieje",
                 "Inwestor": "UM Warszawa",
-                "Nazwa": "aleja Polski Walczącej",
-                "Oddanie do użytku": "02.2019",
-                "Identyfikator MPZP": "3 KDG",
-                "DDR": "istnieje"
+                "Oddanie do użytku": "02.2019"
             },
             "geometry": {
                 "type": "MultiLineString",

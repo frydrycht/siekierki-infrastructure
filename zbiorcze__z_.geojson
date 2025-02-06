@@ -6,8 +6,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "4 KDZ",
-                "Tramwaj": "MPZP",
                 "Autobus": "MPZP",
+                "Tramwaj": "MPZP",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -47,8 +47,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "4 KDZ",
                 "Nazwa": "Augustówka",
+                "Identyfikator MPZP": "4 KDZ",
                 "Autobus": "MPZP",
                 "DDR": "MPZP"
             },
@@ -77,13 +77,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Oddanie do użytku": "03.2021",
-                "Identyfikator MPZP": "4 KDZ",
                 "Nazwa": "Batalionu AK \"Bałtyk\"",
-                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Identyfikator MPZP": "4 KDZ",
+                "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "DDR": "istnieje"
+                "DDR": "istnieje",
+                "Inwestor": "Budimex Nieruchomości/Spravia",
+                "Oddanie do użytku": "03.2021"
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -218,8 +218,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "7 KDZ",
                 "Nazwa": "Bartycka",
+                "Identyfikator MPZP": "7 KDZ",
                 "Autobus": "MPZP",
                 "DDR": "MPZP"
             },
@@ -372,10 +372,10 @@
         {
             "type": "Feature",
             "properties": {
+                "Nazwa": "Romana Statkowskiego",
+                "Identyfikator MPZP": "8 KDZ",
                 "Status": "istniejąca",
                 "Autobus": "Funkcjonuje",
-                "Identyfikator MPZP": "8 KDZ",
-                "Nazwa": "Romana Statkowskiego",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -412,8 +412,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "5 KDZ",
-                "Tramwaj": "MPZP",
                 "Autobus": "MPZP",
+                "Tramwaj": "MPZP",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -482,8 +482,8 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "5 KDZ",
-                "Tramwaj": "MPZP",
                 "Autobus": "MPZP",
+                "Tramwaj": "MPZP",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -527,8 +527,8 @@
         {
             "type": "Feature",
             "properties": {
-                "Identyfikator MPZP": "4 KDZ",
                 "Nazwa": "Batalionu AK \"Bałtyk\"",
+                "Identyfikator MPZP": "4 KDZ",
                 "Autobus": "MPZP",
                 "DDR": "MPZP"
             },
@@ -766,10 +766,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
-                "Identyfikator MPZP": "4 KDZ",
-                "Autobus": "Funkcjonuje",
                 "Nazwa": "Augustówka",
+                "Identyfikator MPZP": "4 KDZ",
+                "Status": "istniejąca",
+                "Autobus": "Funkcjonuje",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -797,11 +797,11 @@
         {
             "type": "Feature",
             "properties": {
-                "Inwestor": "UM Warszawa",
-                "Autobus": "Funkcjonuje",
                 "Nazwa": "Bartycka",
                 "Identyfikator MPZP": "3 KUZ",
                 "Status": "projektowanie",
+                "Autobus": "Funkcjonuje",
+                "Inwestor": "UM Warszawa",
                 "opis": "28.08.2023 podpisano umowę na projekt przebudowy</br><a href=\"https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\">Projektant w sierpniu 2021 odstąpił od umowy</a></br><a href=\"https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/\">Opis SZRM</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm\">Postępowanie DŚU</a>"
             },
             "geometry": {
@@ -855,8 +855,8 @@
             "properties": {
                 "Nazwa": "Bartycka",
                 "Identyfikator MPZP": "6 KDZ",
-                "Tramwaj": "MPZP",
                 "Autobus": "MPZP",
+                "Tramwaj": "MPZP",
                 "DDR": "MPZP"
             },
             "geometry": {
@@ -932,13 +932,13 @@
         {
             "type": "Feature",
             "properties": {
-                "Inwestor": "UM Warszawa",
-                "Autobus": "Funkcjonuje",
                 "Nazwa": "Bartycka",
                 "Identyfikator MPZP": "5 KDZ",
                 "Status": "projektowanie",
-                "opis": "28.08.2023 podpisano umowę na projekt przebudowy</br><a href=\"https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\">Projektant w sierpniu 2021 odstąpił od umowy</a></br><a href=\"https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/\">Opis SZRM</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm\">Postępowanie DŚU</a>",
-                "DDR": "MPZP"
+                "Autobus": "Funkcjonuje",
+                "DDR": "MPZP",
+                "Inwestor": "UM Warszawa",
+                "opis": "28.08.2023 podpisano umowę na projekt przebudowy</br><a href=\"https://www.skyscrapercity.com/threads/warszawa-infrastruktura-drogowa.228660/post-175591539\">Projektant w sierpniu 2021 odstąpił od umowy</a></br><a href=\"https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/\">Opis SZRM</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/OS/postepowania/srodowiskowe/wszczete/2021/Rozbudowa_drogi_powiatowej_ul__Bartyckiej_na_odc__od_ul__Czerniakowskiej_do_ul__Gosciniec_wraz_z_roz.htm\">Postępowanie DŚU</a>"
             },
             "geometry": {
                 "type": "MultiLineString",
