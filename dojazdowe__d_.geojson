@@ -399,7 +399,8 @@
                 "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-4288-2023-z-2023-08-30-7365831-2885409-2048880\">Uchwała zarządu dzielnicy</a>",
                 "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-budowe-fragmentow-drog-gminnych-ul.-ananasowej-16-kdd-oraz-ul.-gasocinskiej-34-kud.-966938\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-budowe-drog-gminnych-ul.-ananasowej-ul.-bartyckiej-ul.-dywizjonu-ak-jelen-ul.-gasocinskiej.-5256171\">Wszczęcie</a>",
                 "Status": "pozwolenie",
-                "Inwestor": "SGI"
+                "Inwestor": "SGI",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385347670-png.8031714/\">Projekt</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -590,7 +591,8 @@
                 "Pozwolenie na budowę": "",
                 "Data uzyskania PnB": "",
                 "Status": "pozwolenie",
-                "Inwestor": "SGI"
+                "Inwestor": "SGI",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1737383634132-png.8592808/\">Projekt</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2357,7 +2359,8 @@
                 "Data uzyskania PnB": "",
                 "Inwestor": "APM",
                 "Status": "wniosek o pozwolenie",
-                "Identyfikator MPZP": "40 KDD"
+                "Identyfikator MPZP": "40 KDD",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1737383757770-png.8592820/\">Projekt</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -2681,7 +2684,8 @@
                 "Data uzyskania PnB": "13.04.2024",
                 "Inwestor": "SGI",
                 "Status": "pozwolenie",
-                "Identyfikator MPZP": "65 KUD"
+                "Identyfikator MPZP": "65 KUD",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385347670-png.8031714/\">Projekt</a>"
             },
             "geometry": {
                 "type": "LineString",
