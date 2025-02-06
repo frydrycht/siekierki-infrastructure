@@ -613,7 +613,8 @@
                 "Identyfikator MPZP": "8 KUL",
                 "Inwestor": "Mill-yon",
                 "Pozwolenie na budowę": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-drogi-gminnej-ul-bluszczanskiej-oznaczonej-w-jako-8-kul-na-odcinku-od-skrzyzowania-z-ul-figowa-do-skrzyzowania-z-droga-9-kul\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Zawiadomienie_o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwol.htm\">Wszczęcie</a>",
-                "Autobus": "MPZP"
+                "Autobus": "MPZP",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385265416-png.8031708/\">Projekt</a>"
             },
             "geometry": {
                 "type": "LineString",
