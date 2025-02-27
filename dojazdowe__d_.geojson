@@ -4430,6 +4430,41 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "63 KDD",
+                "Status": "wniosek o pozwolenie",
+                "Inwestor": "Wawa Novum",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-587/2024-z-2024-11-13\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-drogi-gminnej-oznaczonej-w-miejscowym-planie-zagospodarowania-przestrzennego-rejonu-augustowki-czesc-i-w-r\">Wszczęcie postępowania ZRID</a>"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.07538947498,
+                        52.18362347559
+                    ],
+                    [
+                        21.07592590216,
+                        52.18358809958
+                    ],
+                    [
+                        21.07611614668,
+                        52.18353742579
+                    ],
+                    [
+                        21.07631574749,
+                        52.18342460469
+                    ],
+                    [
+                        21.07756637131,
+                        52.18263580511
+                    ]
+                ]
+            }
         }
     ]
 }
