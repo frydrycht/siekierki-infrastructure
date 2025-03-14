@@ -145,8 +145,11 @@
             "properties": {
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KDL",
-                "Status": "istniejąca",
-                "DDR": "MPZP"
+                "Status": "wniosek o pozwolenie",
+                "DDR": "MPZP",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-chodnikow-sciezki-rowerowej-zjazdow-po-polnocnej-stronie-ulicy-oraz-budowa-sieci-oswietleniowej-w-pasie-dr\">Wszczęcie postępowania ZRID</a>",
+                "opis": "budowa DDR",
+                "Projekt": "<a href=\"https://um.warszawa.pl/documents/61166/63025835/Bluszcza%C5%84ska+-+SOR+UD+Mokot%C3%B3w+2024.pdf/1eafeb16-daea-68b5-6f26-263c359e03f7?t=1728547814348\">Projekt</a>"
             },
             "geometry": {
                 "type": "LineString",
@@ -508,7 +511,7 @@
                 "Autobus": "MPZP",
                 "DDR": "MPZP",
                 "Inwestor": "Dom Development",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
                 "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506327.52551143&Y=5784915.182000503&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>"
             },
             "geometry": {
@@ -607,7 +610,7 @@
                 "Status": "w budowie",
                 "Autobus": "MPZP",
                 "Inwestor": "Mill-yon",
-                "Pozwolenie na budowę": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-drogi-gminnej-ul-bluszczanskiej-oznaczonej-w-jako-8-kul-na-odcinku-od-skrzyzowania-z-ul-figowa-do-skrzyzowania-z-droga-9-kul\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Zawiadomienie_o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwol.htm\">Wszczęcie</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-drogi-gminnej-ul-bluszczanskiej-oznaczonej-w-jako-8-kul-na-odcinku-od-skrzyzowania-z-ul-figowa-do-skrzyzowania-z-droga-9-kul\">Decyzja</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Zawiadomienie_o_wszczeciu_postepowania_administracyjnego_w_sprawie_wydania_decyzji_o_zezwol.htm\">Wszczęcie</a>",
                 "Data uzyskania PnB": "08.08.2024",
                 "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504767.343740558&Y=5786205.091896309&S=17&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
                 "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385265416-png.8031708/\">Projekt</a>"
@@ -1004,7 +1007,7 @@
                 "Autobus": "MPZP",
                 "Inwestor": "Mill-yon",
                 "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna\">Decyzja</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania\">Zebranie materiałów</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez\">Ponowne wszczęcie</a></br><a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej\">Umorzenie</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_w_sprawie_wszczecia_postepowania_administracyjnego__w_sprawie_rozbudowy_ulicy.htm\">Wszczęcie</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna\">Decyzja</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania\">Zebranie materiałów</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez\">Ponowne wszczęcie</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej\">Umorzenie</a></br><a href=\"https://bip.warszawa.pl/Menu_przedmiotowe/ogloszenia/architektura/Mokotow/Mokotow__Obwieszczenie_w_sprawie_wszczecia_postepowania_administracyjnego__w_sprawie_rozbudowy_ulicy.htm\">Wszczęcie</a>",
                 "Data uzyskania PnB": "9.12.2024",
                 "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/\">Projekt</a>"
             },
@@ -1202,7 +1205,7 @@
                 "Status": "projektowanie",
                 "Autobus": "MPZP",
                 "Inwestor": "Dom Development",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
                 "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506220.104678084&Y=5784844.273667165&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>"
             },
             "geometry": {
@@ -1374,7 +1377,7 @@
                 "Status": "planowane prace",
                 "Autobus": "MPZP",
                 "Inwestor": "Kątna sp. z o.o.",
-                "Umowa": "<a href=\"https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10\">Uchwała zarządu dzielnicy</a>"
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10\">Uchwała zarządu dzielnicy</a>"
             },
             "geometry": {
                 "type": "LineString",
