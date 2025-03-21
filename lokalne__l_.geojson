@@ -1030,7 +1030,7 @@
             "properties": {
                 "Nazwa": "Polska",
                 "Identyfikator MPZP": "10 KUL",
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Autobus": "Funkcjonuje"
             },
             "geometry": {
