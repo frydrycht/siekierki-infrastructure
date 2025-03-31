@@ -167,7 +167,13 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "38 KUD",
-                "Status": "w budowie"
+                "Status": "istniejąca",
+                "Autobus": "MPZP",
+                "Inwestor": "YIT",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-obwieszczenie-o-wydaniu-decyzji-nr-4-z-2022-zmieniajacej-ostateczna-decyzje-nr-1-z-2022-z-dmiia-2022r-7-kul-4069300\">Decyzja zmieniająca - 4/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-7-kul-8567424\">Decyzja - 1/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-budowa-drogi-gminnej-7-kul-w-rejonie-ul.-polskiej-7812753\">Wszczęcie</a>",
+                "Data uzyskania PnB": "01.06.2022",
+                "Oddanie do użytku": "Q1.2025"
             },
             "geometry": {
                 "type": "LineString",
@@ -1184,6 +1190,30 @@
                     [
                         21.06246887266,
                         52.20530290118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nazwa": "Batalionu AK \"Bałtyk\"",
+                "Identyfikator MPZP": "36 KDD",
+                "Status": "w budowie",
+                "DDR": "MPZP",
+                "Inwestor": "Spravia (Budimex Nieruchomości)",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
+                "Data uzyskania PnB": "01.02.2023",
+                "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504358.03332387&Y=5785664.018979623&S=14&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/\">Projekt</a>"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates":  [
+                    [
+                        21.06246887266,
+                        52.20530290118
                     ],
                     [
                         21.06220500000,
@@ -1217,7 +1247,13 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "40 KUD",
-                "Status": "w budowie"
+                "Status": "istniejąca",
+                "Autobus": "MPZP",
+                "Inwestor": "YIT",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-obwieszczenie-o-wydaniu-decyzji-nr-4-z-2022-zmieniajacej-ostateczna-decyzje-nr-1-z-2022-z-dmiia-2022r-7-kul-4069300\">Decyzja zmieniająca - 4/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-7-kul-8567424\">Decyzja - 1/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-budowa-drogi-gminnej-7-kul-w-rejonie-ul.-polskiej-7812753\">Wszczęcie</a>",
+                "Data uzyskania PnB": "01.06.2022",
+                "Oddanie do użytku": "Q1.2025"
             },
             "geometry": {
                 "type": "LineString",
@@ -3916,7 +3952,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "37 KD(D)",
-                "Status": "pozwolenie",
+                "Status": "w budowie",
                 "Inwestor": "Spravia (Budimex Nieruchomości)",
                 "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>",
                 "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
@@ -3927,10 +3963,6 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [
-                        21.06146200000,
-                        52.20592700000
-                    ],
                     [
                         21.06246887266,
                         52.20530290118
@@ -3950,6 +3982,32 @@
                     [
                         21.06508800000,
                         52.20363200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Identyfikator MPZP": "37 KD(D)",
+                "Status": "pozwolenie",
+                "Inwestor": "Spravia (Budimex Nieruchomości)",
+                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>",
+                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
+                "Data uzyskania PnB": "01.02.2023",
+                "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504358.03332387&Y=5785664.018979623&S=14&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
+                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/\">Projekt</a>"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        21.06146200000,
+                        52.20592700000
+                    ],
+                    [
+                        21.06246887266,
+                        52.20530290118
                     ]
                 ]
             }
