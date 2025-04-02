@@ -282,7 +282,7 @@
             "properties": {
                 "Nazwa": "Gąsocińska 02",
                 "Rodzaj": "Autobusowy",
-                "Status": "Zawieszony"
+                "Status": "Funkcjonujący"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +580,7 @@
             "properties": {
                 "Nazwa": "Gąsocińska 01",
                 "Rodzaj": "Autobusowy",
-                "Status": "Zawieszony"
+                "Status": "Funkcjonujący"
             },
             "geometry": {
                 "type": "Point",
