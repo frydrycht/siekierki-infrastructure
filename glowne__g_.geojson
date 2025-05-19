@@ -9,7 +9,8 @@
                 "Identyfikator MPZP": "1 KDG",
                 "Autobus": "MPZP",
                 "Tramwaj": "MPZP",
-                "DDR": "MPZP"
+                "DDR": "MPZP",
+                "Status": "planowane prace"
             },
             "geometry": {
                 "type": "MultiLineString",
