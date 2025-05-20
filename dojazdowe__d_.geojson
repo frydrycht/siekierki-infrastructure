@@ -1181,7 +1181,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Bałtyk\"",
+                "Nazwa": "Batalionu AK ''Bałtyk''",
                 "Identyfikator MPZP": "36 KDD",
                 "Status": "pozwolenie",
                 "DDR": "MPZP",
@@ -1210,7 +1210,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Bałtyk\"",
+                "Nazwa": "Batalionu AK ''Bałtyk''",
                 "Identyfikator MPZP": "36 KDD",
                 "Status": "w budowie",
                 "DDR": "MPZP",
@@ -1560,7 +1560,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "Status": "istniejąca",
                 "DDR": "istnieje",
@@ -1622,7 +1622,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Grupy AK \"Krybar\"",
+                "Nazwa": "Grupy AK ''Krybar''",
                 "Identyfikator MPZP": "35 KDD",
                 "Status": "istniejąca",
                 "Inwestor": "Budimex Nieruchomości",
@@ -1790,7 +1790,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "DDR": "MPZP"
             },
@@ -1963,7 +1963,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Olza\"",
+                "Nazwa": "Batalionu AK ''Olza''",
                 "Identyfikator MPZP": "32 KDD"
             },
             "geometry": {
@@ -2639,7 +2639,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "DDR": "MPZP"
             },
@@ -2757,7 +2757,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "DDR": "MPZP"
             },
@@ -2782,7 +2782,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "Status": "istniejąca",
                 "DDR": "istnieje",
@@ -3039,7 +3039,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Ryś\"",
+                "Nazwa": "Batalionu AK ''Ryś''",
                 "Identyfikator MPZP": "34 KDD",
                 "Status": "istniejąca",
                 "Inwestor": "SGI",
@@ -3068,7 +3068,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Karpaty\"",
+                "Nazwa": "Batalionu AK ''Karpaty''",
                 "Identyfikator MPZP": "35 KDD",
                 "Status": "istniejąca",
                 "Inwestor": "APM",
@@ -3161,7 +3161,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Dywizjonu AK \"Jeleń\"",
+                "Nazwa": "Dywizjonu AK ''Jeleń''",
                 "Identyfikator MPZP": "14 KDD",
                 "Status": "istniejąca",
                 "Inwestor": "Budimex Nieruchomości/Spravia",
@@ -3340,7 +3340,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Dywizjonu AK \"Jeleń\"",
+                "Nazwa": "Dywizjonu AK ''Jeleń''",
                 "Identyfikator MPZP": "14 KDD",
                 "Status": "istniejąca",
                 "Inwestor": "Budimex Nieruchomości/Spravia",
@@ -3464,6 +3464,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Nazwa": "Kiwi",
                 "Identyfikator MPZP": "30 KUD",
                 "Status": "w budowie",
                 "Inwestor": "Ronson",
@@ -3640,7 +3641,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Karpaty\"",
+                "Nazwa": "Batalionu AK ''Karpaty''",
                 "Identyfikator MPZP": "35 KDD"
             },
             "geometry": {
@@ -3745,7 +3746,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "DDR": "MPZP"
             },
@@ -3798,7 +3799,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Ryś\"",
+                "Nazwa": "Batalionu AK ''Ryś''",
                 "Identyfikator MPZP": "34 KDD"
             },
             "geometry": {
@@ -3963,7 +3964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Olza\"",
+                "Nazwa": "Batalionu AK ''Olza''",
                 "Identyfikator MPZP": "32 KDD",
                 "Status": "istniejąca",
                 "Oddanie do użytku": "~2008"
@@ -4055,7 +4056,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Batalionu AK \"Karpaty\"",
+                "Nazwa": "Batalionu AK ''Karpaty''",
                 "Identyfikator MPZP": "35 KDD",
                 "Status": "istniejąca",
                 "Inwestor": "APM",
@@ -4399,7 +4400,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Pułku AK \"Waligóra\"",
+                "Nazwa": "Pułku AK ''Waligóra''",
                 "Identyfikator MPZP": "10 KDD",
                 "Status": "istniejąca",
                 "DDR": "istnieje"
