@@ -11,7 +11,7 @@
                 "Tramwaj": "MPZP",
                 "DDR": "MPZP",
                 "Status": "planowane prace",
-                "invest-id": 28
+                "invest_id": 28
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -344,7 +344,7 @@
                 "DDR": "istnieje",
                 "Inwestor": "UM Warszawa",
                 "Oddanie do użytku": "02.2019",
-                "invest-id": 27
+                "invest_id": 27
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -390,7 +390,7 @@
                 "DDR": "istnieje",
                 "Inwestor": "UM Warszawa",
                 "Oddanie do użytku": "02.2019",
-                "invest-id": 27
+                "invest_id": 27
             },
             "geometry": {
                 "type": "MultiLineString",
