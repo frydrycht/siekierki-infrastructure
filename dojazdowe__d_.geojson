@@ -1162,7 +1162,7 @@
             },
             "geometry": {
                 "type": "LineString",
-                "coordinates":  [
+                "coordinates": [
                     [
                         21.06246887266,
                         52.20530290118
@@ -2907,17 +2907,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "39 KD(D)",
-<<<<<<< HEAD
-                "Status": "pozwolenie",
-=======
                 "Status": "w budowie",
-                "Inwestor": "Spravia (Budimex Nieruchomości)",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-3053-2022-z-2022-05-18-2075902-6811429-3398359\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fb3c9367-4438-4652-b70c-d563d3f056ff/\">Wyszukiwarka GUNB</a>",
-                "Data uzyskania PnB": "01.02.2023",
-                "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504358.03332387&Y=5785664.018979623&S=14&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
-                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/zach%C3%B3d-apw-wycinek-jpg.8592795/\">Projekt</a>",
->>>>>>> e493ae0ec71f402990b22aa0fa54a7bbadac1e7b
                 "invest_id": 4
             },
             "geometry": {
