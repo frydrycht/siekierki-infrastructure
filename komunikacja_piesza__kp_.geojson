@@ -496,7 +496,8 @@
             "properties": {
                 "Status": "istniejąca",
                 "Identyfikator MPZP": "51 KP",
-                "DDR": "istnieje"
+                "DDR": "istnieje",
+                "invest_id": 41
             },
             "geometry": {
                 "type": "LineString",

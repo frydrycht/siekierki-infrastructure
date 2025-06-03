@@ -587,7 +587,8 @@
             "type": "Feature",
             "properties": {
                 "Status": "w budowie",
-                "Identyfikator MPZP": "50 KUDw"
+                "Identyfikator MPZP": "50 KUDw",
+                "invest_id": 3
             },
             "geometry": {
                 "type": "LineString",
@@ -997,11 +998,10 @@
             "type": "Feature",
             "properties": {
                 "Pozwolenie na budowę": "",
-                "Inwestor": "Dom Development",
                 "Data uzyskania PnB": "",
                 "Identyfikator MPZP": "12 KDW",
                 "Status": "projektowanie",
-                "opis": "https://nowy.bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\nhttps://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505992.8275947515&Y=5784731.296583836&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\n"
+                "invest_id": 5
             },
             "geometry": {
                 "type": "LineString",

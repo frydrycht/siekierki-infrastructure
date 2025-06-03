@@ -147,9 +147,6 @@
                 "Identyfikator MPZP": "8 KDL",
                 "Status": "wniosek o pozwolenie",
                 "DDR": "MPZP",
-                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-chodnikow-sciezki-rowerowej-zjazdow-po-polnocnej-stronie-ulicy-oraz-budowa-sieci-oswietleniowej-w-pasie-dr\">Wszczęcie postępowania ZRID</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zakonczonym-zbieraniu-dowodow-i-materialow-w-postepowaniu-administracyjnym-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-p-n-budowa-chodnikow-sciezki-rowerowej-zjazdow-po-polnocnej-stronie-ulicy-oraz-budo\">Zebranie dowodów</a>",
-                "opis": "budowa DDR",
-                "Projekt": "<a href=\"https://um.warszawa.pl/documents/61166/63025835/Bluszcza%C5%84ska+-+SOR+UD+Mokot%C3%B3w+2024.pdf/1eafeb16-daea-68b5-6f26-263c359e03f7?t=1728547814348\">Projekt</a>",
                 "invest_id": 40
             },
             "geometry": {
@@ -217,11 +214,6 @@
                 "Identyfikator MPZP": "9 KDL",
                 "Status": "istniejąca",
                 "DDR": "istnieje",
-                "Inwestor": "Budimex Nieruchomości/Spravia",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6706-2018-z-2018-09-26-4497828-7401423-2606736\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/fd21caa9-6c6e-4429-896b-7dbf6b20c42d/\">Wyszukiwarka GUNB</a>",
-                "Data uzyskania PnB": "10.08.2020",
-                "Oddanie do użytku": "~04.2021",
                 "invest_id": 21
             },
             "geometry": {
@@ -264,9 +256,6 @@
                 "Identyfikator MPZP": "7 KUL",
                 "Status": "w budowie",
                 "Autobus": "MPZP",
-                "Inwestor": "Ronson",
-                "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydanej-decyzji-na-budowe-drogi-gminnej-30-kud-1331711\">Decyzja - 1/Z/2023</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/obwieszczenie-o-wszczeciu-postepowania-administracyjnego-droga-gminna-30-kud-5538386\">Wszczęcie</a>",
-                "Data uzyskania PnB": "28.02.2023",
                 "invest_id":2
             },
             "geometry": {
@@ -294,11 +283,6 @@
                 "Identyfikator MPZP": "9 KUL",
                 "Status": "wniosek o pozwolenie",
                 "Autobus": "MPZP",
-                "Inwestor": "Mill-yon",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/136e556e-f52d-4bba-82c7-25d28f222f56/\">Wyszukiwarka GUNB</a>",
-                "Data uzyskania PnB": "",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504840.831761387&Y=5786489.45283382&S=15&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "invest_id":34
             },
             "geometry": {
@@ -459,11 +443,6 @@
                 "Nazwa": "Ananasowa",
                 "Identyfikator MPZP": "9 KDL",
                 "Status": "istniejąca",
-                "Inwestor": "Budimex Nieruchomości",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-6332-2018-z-2018-07-04-1642239-7694724-2766973\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://wyszukiwarka.gunb.gov.pl/wniosek/87b19beb-b8bc-499d-9c81-5bec9bb2ffce/\">Wyszukiwarka GUNB</a>",
-                "Data uzyskania PnB": "14.11.2019",
-                "Oddanie do użytku": "~09.2020",
                 "invest_id":22
             },
             "geometry": {
@@ -515,9 +494,6 @@
                 "Status": "projektowanie",
                 "Autobus": "MPZP",
                 "DDR": "MPZP",
-                "Inwestor": "Dom Development",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506327.52551143&Y=5784915.182000503&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>",
                 "invest_id":5
             },
             "geometry": {
@@ -616,11 +592,6 @@
                 "Identyfikator MPZP": "8 KUL",
                 "Status": "w budowie",
                 "Autobus": "MPZP",
-                "Inwestor": "Mill-yon",
-                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-drogi-gminnej-ul-bluszczanskiej-oznaczonej-w-jako-8-kul-na-odcinku-od-skrzyzowania-z-ul-figowa-do-skrzyzowania-z-droga-9-kul\">Decyzja - 8/MOK/ZRID/2024</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-przebudowie-ul.-bluszczanskiej.-621686\">Wszczęcie</a>",
-                "Data uzyskania PnB": "08.08.2024",
-                "opis": "<a href=\"http://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7504767.343740558&Y=5786205.091896309&S=17&O=0&T=7f6778011fe214016dba49249246cdb6ffx9D\">Mapa UM</a>",
-                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385265416-png.8031708/\">Projekt</a>",
                 "invest_id":32
             },
             "geometry": {
@@ -694,10 +665,6 @@
                 "Identyfikator MPZP": "9 KUL",
                 "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "Inwestor": "SGI",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-5383-2014-z-2014-02-12-1008114-7723010-3423627\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "",
-                "Data uzyskania PnB": "",
                 "invest_id": 33
             },
             "geometry": {
@@ -872,8 +839,6 @@
                 "Identyfikator MPZP": "11 KDL",
                 "Status": "projektowanie",
                 "Autobus": "MPZP",
-                "Inwestor": "?Dantex?",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "invest_id": 10
             },
             "geometry": {
@@ -1015,11 +980,6 @@
                 "Identyfikator MPZP": "9 KUL",
                 "Status": "w budowie",
                 "Autobus": "MPZP",
-                "Inwestor": "Mill-yon",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2533-2021-z-2021-10-06-4251384-7329450-1856741\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-nr-1/mok/zrid/2025-zmieniajacej-ostateczna-decyzje-nr-14/mok/zrid/2024-udzielajaca-pozwolenia-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-\">Decyzja zmieniająca - 1/MOK/ZRID/2025</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-wydanej-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna\">Decyzja - 14/MOK/ZRID/2024</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-zebraniu-materialow-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez-skrzyzowania\">Zebranie materiałów</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej-na-odcinku-od-skrzyzowania-z-ul-piniowa-do-skrzyzowania-z-ul-katna-bez\">Ponowne wszczęcie</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-zawiadomienie-o-wydaniu-decyzji-umarzajacej-postepowanie-administracyjne-w-sprawie-wydania-decyzji-zezwalajacej-na-realizacje-inwestycji-drogowej-polegajacej-na-rozbudowie-ulicy-bluszczanskiej\">Umorzenie</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-w-sprawie-wszczecia-postepowania-administracyjnego-w-sprawie-rozbudowy-ulicy-bluszczanskiej-27-kud-1499615\">Wszczęcie</a>",
-                "Data uzyskania PnB": "9.12.2024",
-                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1737383541003-png.8592797/\">Projekt</a>",
                 "invest_id": 1
             },
             "geometry": {
@@ -1167,9 +1127,6 @@
                 "Identyfikator MPZP": "8 KDL",
                 "Status": "istniejąca",
                 "DDR": "istnieje",
-                "Inwestor": "Budimex Nieruchomości",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-2357-2012-z-2012-08-02-7567508-4026775-6476154\">Uchwała zarządu dzielnicy</a>",
-                "Oddanie do użytku": "~2015",
                 "invest_id":35
             },
             "geometry": {
@@ -1216,9 +1173,6 @@
                 "Identyfikator MPZP": "31 KDL",
                 "Status": "projektowanie",
                 "Autobus": "MPZP",
-                "Inwestor": "Dom Development",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-485/2024-z-2024-10-16\">Uchwała zarządu dzielnicy</a>",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7506220.104678084&Y=5784844.273667165&S=15&O=0&T=7f6758011fe004016dba49249246cdb6ffxCF\">Mapa UM</a>",
                 "invest_id":5
             },
             "geometry": {
@@ -1389,8 +1343,6 @@
                 "Identyfikator MPZP": "8 KUL",
                 "Status": "planowane prace",
                 "Autobus": "MPZP",
-                "Inwestor": "Kątna sp. z o.o.",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-90/2024-z-2024-07-10\">Uchwała zarządu dzielnicy</a>",
                 "invest_id": 36
             },
             "geometry": {
@@ -1413,7 +1365,6 @@
                 "Nazwa": "Grupy AK \"Kampinos\"",
                 "Identyfikator MPZP": "6 KDL",
                 "Status": "istniejąca",
-                "Inwestor": "UM Warszawa",
                 "invest_id": 37
             },
             "geometry": {
@@ -1589,11 +1540,7 @@
                 "Identyfikator MPZP": "8 KUL",
                 "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "Inwestor": "SGI",
-                "Pozwolenie na budowę": "<a href=\"https://bip.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-19-kud-4108722\">Decyzja - 2/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-toczacym-sie-postepowaniu-w-sprawie-realizacji-inwestycji-drogowej-19-kud-6852897\">Postępowanie</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-toczacym-sie-postepowaniu.-budowa-drogi-gmninnej-19-kud-3550221\">Wszczęcie postępowania</a>",
-                "Data uzyskania PnB": "10.08.2022",
-                "Projekt": "<a href=\"https://www.skyscrapercity.com/attachments/1728385215489-png.8031706/\">Projekt</a>",
-                "invest_id":3
+                "invest_id": 3
             },
             "geometry": {
                 "type": "LineString",
@@ -1876,7 +1823,6 @@
                 "Nazwa": "Grupy AK \"Kampinos\"",
                 "Identyfikator MPZP": "6 KDL",
                 "Status": "istniejąca",
-                "Inwestor": "UD Mokotów",
                 "invest_id": 27
             },
             "geometry": {
@@ -1899,8 +1845,6 @@
                 "Identyfikator MPZP": "13 KDL",
                 "Status": "projektowanie",
                 "Autobus": "MPZP",
-                "Inwestor": "?Dantex?",
-                "opis": "<a href=\"https://mapa.um.warszawa.pl/mapaApp1/mapa?service=geodezja&L=PL&X=7505474.244261392&Y=5785220.775750485&S=14&O=0&T=7f6778011fe004016dba49249246cdb6ffxAF\">Mapa UM</a>",
                 "invest_id": 10
             },
             "geometry": {
@@ -1973,11 +1917,6 @@
                 "Identyfikator MPZP": "7 KUL",
                 "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "Inwestor": "YIT",
-                "Umowa": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/uchwala-nr-740-2019-z-2019-07-24-8041732-2033647-5125082\">Uchwała zarządu dzielnicy</a>",
-                "Pozwolenie na budowę": "<a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow-obwieszczenie-o-wydaniu-decyzji-nr-4-z-2022-zmieniajacej-ostateczna-decyzje-nr-1-z-2022-z-dmiia-2022r-7-kul-4069300\">Decyzja zmieniająca - 4/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/mokotow.-obwieszczenie-o-wydaniu-decyzji-na-budowe-drogi-gminnej-7-kul-8567424\">Decyzja - 1/Z/2022</a></br><a href=\"https://bip.um.warszawa.pl/web/mokotow/-/zawiadomienie-o-wszczeciu-postepowania-administracyjnego-w-sprawie-wydania-decyzji-o-zezwoleniu-na-realizacje-inwestycji-drogowej-budowa-drogi-gminnej-7-kul-w-rejonie-ul.-polskiej-7812753\">Wszczęcie</a>",
-                "Data uzyskania PnB": "01.06.2022",
-                "Oddanie do użytku": "Q1.2025",
                 "invest_id": 38
             },
             "geometry": {
@@ -2092,8 +2031,6 @@
                 "Identyfikator MPZP": "5 KUL",
                 "Status": "projektowanie",
                 "Autobus": "MPZP",
-                "Inwestor": "ZMID",
-                "opis": "<a href=\"https://szrm.pl/inwestycjebrdrogowe/przygotowywane/rozbudowa-ul-bartyckiej-na-odc-ul-czerniakowska-ul-gosciniec-1271/\"Opis SZRM</a>",
                 "invest_id": 31
             },
             "geometry": {

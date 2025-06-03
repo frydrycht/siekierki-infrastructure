@@ -342,8 +342,6 @@
                 "Autobus": "MPZP",
                 "Tramwaj": "MPZP",
                 "DDR": "istnieje",
-                "Inwestor": "UM Warszawa",
-                "Oddanie do użytku": "02.2019",
                 "invest_id": 27
             },
             "geometry": {
@@ -388,8 +386,6 @@
                 "Status": "istniejąca",
                 "Autobus": "Funkcjonuje",
                 "DDR": "istnieje",
-                "Inwestor": "UM Warszawa",
-                "Oddanie do użytku": "02.2019",
                 "invest_id": 27
             },
             "geometry": {
