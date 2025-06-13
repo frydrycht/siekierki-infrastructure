@@ -1917,7 +1917,7 @@
                 "Identyfikator MPZP": "7 KUL",
                 "Status": "istniejąca",
                 "Autobus": "MPZP",
-                "invest_id": 38
+                "invest_id": 6
             },
             "geometry": {
                 "type": "LineString",
