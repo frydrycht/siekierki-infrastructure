@@ -505,7 +505,7 @@
             "properties": {
                 "Nazwa": "Kaloryczna",
                 "Identyfikator MPZP": "43 KDD",
-                "Status": "planowane prace",
+                "Status": "wniosek o pozwolenie",
                 "invest_id": 8
             },
             "geometry": {
@@ -590,7 +590,7 @@
             "properties": {
                 "Nazwa": "Kaloryczna",
                 "Identyfikator MPZP": "38 KDD",
-                "Status": "planowane prace",
+                "Status": "wniosek o pozwolenie",
                 "Autobus": "MPZP",
                 "invest_id": 8
             },
