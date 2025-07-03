@@ -586,7 +586,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "50 KUDw",
                 "invest_id": 3
             },
