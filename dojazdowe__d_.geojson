@@ -3085,7 +3085,7 @@
             "properties": {
                 "Nazwa": "Grejpfrutowa",
                 "Identyfikator MPZP": "19 KUD",
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "invest_id": 3
             },
             "geometry": {

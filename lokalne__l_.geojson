@@ -748,7 +748,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "Kostrzyńska",
+                "Nazwa": "Kostrzyńska",
                 "Identyfikator MPZP": "23 KDL"
             },
             "geometry": {
