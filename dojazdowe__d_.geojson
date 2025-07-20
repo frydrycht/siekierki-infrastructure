@@ -3870,7 +3870,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "37 KD(D)",
-                "Status": "pozwolenie",
+                "Status": "w budowie",
                 "invest_id": 4
             },
             "geometry": {
