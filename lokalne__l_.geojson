@@ -145,7 +145,7 @@
             "properties": {
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KDL",
-                "Status": "pozwolenie",
+                "Status": "w budowie",
                 "DDR": "MPZP",
                 "invest_id": 40
             },
@@ -590,7 +590,7 @@
             "properties": {
                 "Nazwa": "Bluszczańska",
                 "Identyfikator MPZP": "8 KUL",
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Autobus": "MPZP",
                 "invest_id":32
             },
