@@ -978,7 +978,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "9 KUL",
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Autobus": "MPZP",
                 "invest_id": 1
             },
