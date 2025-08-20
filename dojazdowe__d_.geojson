@@ -501,9 +501,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
+                "Status": "planowane prace",
                 "Identyfikator MPZP": "17 KUD",
-                "Nazwa": "Bananowa"
+                "Nazwa": "Bananowa",
+                "invest_id": "38"
             },
             "geometry": {
                 "type": "LineString",
@@ -2996,9 +2997,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "istniejąca",
+                "Status": "planowane prace",
                 "Nazwa": "Wał Zawadowski",
-                "Identyfikator MPZP": "12 KUD"
+                "Identyfikator MPZP": "12 KUD",
+                "invest_id": "38"
             },
             "geometry": {
                 "type": "LineString",
