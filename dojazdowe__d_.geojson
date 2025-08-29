@@ -721,7 +721,7 @@
             "type": "Feature",
             "properties": {
                 "invest_id": "15",
-                "Status": "wniosek o pozwolenie",
+                "Status": "pozwolenie",
                 "Identyfikator MPZP": "40 KDD"
             },
             "geometry": {
