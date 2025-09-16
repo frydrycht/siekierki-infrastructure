@@ -249,7 +249,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "37 KD(D)",
                 "invest_id": "4"
             },
@@ -416,7 +416,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "36 KDD",
                 "invest_id": "4",
                 "Nazwa": "Batalionu AK ''Bałtyk''",
@@ -865,7 +865,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "36 KDD",
                 "invest_id": "4",
                 "Nazwa": "Batalionu AK ''Bałtyk''",
@@ -1740,7 +1740,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "invest_id": "4",
                 "Identyfikator MPZP": "39 KD(D)"
             },
