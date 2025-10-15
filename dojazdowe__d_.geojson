@@ -321,7 +321,7 @@
                 "Identyfikator MPZP": "43 KDD",
                 "Nazwa": "Kaloryczna",
                 "invest_id": "8",
-                "Status": "wniosek o pozwolenie"
+                "Status": "pozwolenie"
             },
             "geometry": {
                 "type": "LineString",
@@ -997,7 +997,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "33 KUD",
                 "invest_id": "2"
             },
@@ -2904,7 +2904,7 @@
                 "Nazwa": "Kaloryczna",
                 "invest_id": "8",
                 "Identyfikator MPZP": "38 KDD",
-                "Status": "wniosek o pozwolenie",
+                "Status": "pozwolenie",
                 "Autobus": "MPZP"
             },
             "geometry": {
@@ -4289,7 +4289,7 @@
             "type": "Feature",
             "properties": {
                 "Identyfikator MPZP": "30 KUD",
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "invest_id": "2",
                 "Nazwa": "Kiwi"
             },

@@ -294,7 +294,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "7 KUL",
                 "invest_id": "2",
                 "Autobus": "MPZP"
