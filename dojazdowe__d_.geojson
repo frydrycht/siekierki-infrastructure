@@ -3980,10 +3980,10 @@
         {
             "type": "Feature",
             "properties": {
-                "Nazwa": "Nadrzeczna",
+                "Nazwa": "",
                 "invest_id": "20",
                 "Identyfikator MPZP": "15 KUD",
-                "Status": "planowane prace"
+                "Status": "wniosek o pozwolenie"
             },
             "geometry": {
                 "type": "LineString",
