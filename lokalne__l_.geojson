@@ -1919,7 +1919,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Status": "w budowie",
+                "Status": "istniejąca",
                 "Identyfikator MPZP": "8 KDL",
                 "Nazwa": "Bluszczańska",
                 "invest_id": "40",
